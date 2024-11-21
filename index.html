@@ -1,13 +1,16 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ar">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>علي حسن تي في</title>
     <style>
+        /* إعدادات الخطوط */
+        @import url('https://fonts.googleapis.com/css2?family=Cairo:wght@400;700&display=swap');
+
         /* تنسيق عام */
         body {
-            font-family: 'Arial', sans-serif;
+            font-family: 'Cairo', sans-serif;
             margin: 0;
             padding: 0;
             background: linear-gradient(135deg, #0f2027, #2c5364);
@@ -22,6 +25,15 @@
         header h1 {
             margin: 0;
             font-size: 2.5rem;
+        }
+
+        /* النص تحت العنوان */
+        .info-text {
+            font-size: 1.2rem;
+            color: #fff;
+            margin-top: 10px;
+            font-weight: 300;
+            text-align: center;
         }
 
         .container {
@@ -45,31 +57,26 @@
 
         /* قائمة القنوات */
         .playlist {
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: space-between;
+            display: grid;
+            grid-template-columns: repeat(3, 1fr); /* كل 3 أزرار في صف */
             gap: 20px;
             width: 100%;
         }
         .channel {
-            background: linear-gradient(145deg, #334d60, #1a2a38);
-            border-radius: 15px;
-            padding: 15px;
-            width: calc(25% - 10px);
+            background: linear-gradient(145deg, #4a90e2, #1c2b3e);
+            border-radius: 10px;
+            padding: 10px 20px;
             box-shadow: 0 6px 10px rgba(0, 0, 0, 0.2), 0 4px 6px rgba(255, 255, 255, 0.1) inset;
             text-align: center;
             cursor: pointer;
             color: #fff;
+            font-size: 1.1rem;
+            font-weight: bold;
             transition: transform 0.3s ease, box-shadow 0.3s ease;
         }
         .channel:hover {
-            transform: translateY(-5px) scale(1.05);
+            transform: translateY(-3px) scale(1.05);
             box-shadow: 0 10px 15px rgba(0, 0, 0, 0.3), 0 6px 8px rgba(255, 255, 255, 0.2) inset;
-        }
-        .channel h3 {
-            margin: 10px 0;
-            font-size: 1.1rem;
-            text-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
         }
 
         /* الحقوق */
@@ -91,6 +98,8 @@
 <body>
     <header>
         <h1>علي حسن TV</h1>
+        <!-- النص الإضافي أسفل العنوان -->
+        <p class="info-text">اضغط على القناة وانتظر قليلاً ستعمل القناة.</p>
     </header>
     <div class="container">
         <!-- مشغل الفيديو -->
@@ -112,23 +121,9 @@
     <script>
         let channels = [];
         let currentChannelIndex = 0;
-        let userActive = true;
         const player = document.getElementById('player');
         const videoSource = document.getElementById('videoSource');
         const playlist = document.getElementById('playlist');
-
-        // تكبير الشاشة تلقائيًا
-        function enterFullScreen() {
-            if (player.requestFullscreen) {
-                player.requestFullscreen();
-            } else if (player.webkitRequestFullscreen) {
-                player.webkitRequestFullscreen();
-            } else if (player.mozRequestFullScreen) {
-                player.mozRequestFullScreen();
-            } else if (player.msRequestFullscreen) {
-                player.msRequestFullscreen();
-            }
-        }
 
         // تشغيل قناة معينة
         function playChannel(index) {
@@ -137,11 +132,8 @@
             videoSource.src = channels[index];
             player.load();
             player.play();
-        }
-
-        // الانتقال للقناة التالية
-        function nextChannel() {
-            playChannel((currentChannelIndex + 1) % channels.length);
+            // الانتقال للمشغل
+            player.scrollIntoView({ behavior: 'smooth' });
         }
 
         // تحميل ملف M3U
@@ -161,11 +153,8 @@
                         // إنشاء زر القناة
                         const channelDiv = document.createElement('div');
                         channelDiv.className = 'channel';
-                        channelDiv.innerHTML = `<h3>${channelName}</h3>`;
-                        channelDiv.onclick = () => {
-                            userActive = true;
-                            playChannel(channels.indexOf(channelUrl));
-                        };
+                        channelDiv.innerHTML = `${channelName}`;
+                        channelDiv.onclick = () => playChannel(channels.indexOf(channelUrl));
                         playlist.appendChild(channelDiv);
                     }
                 });
@@ -174,24 +163,6 @@
                 if (channels.length > 0) {
                     playChannel(0);
                 }
-
-                // الانتقال التلقائي بعد 6 ثوانٍ من عدم النشاط
-                let idleTimer = setTimeout(nextChannel, 6000);
-                document.addEventListener('mousemove', () => {
-                    clearTimeout(idleTimer);
-                    userActive = true;
-                    idleTimer = setTimeout(() => {
-                        userActive = false;
-                        nextChannel();
-                    }, 6000);
-                });
-
-                // تكبير الشاشة بعد 6 ثوانٍ من التشغيل
-                player.addEventListener('play', () => {
-                    setTimeout(() => {
-                        if (!userActive) enterFullScreen();
-                    }, 6000);
-                });
             })
             .catch(error => console.error('Error loading playlist:', error));
     </script>
