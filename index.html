@@ -46,7 +46,7 @@
         }
 
         /* مشغل الفيديو */
-        video {
+        #player {
             width: 100%;
             max-width: 800px;
             margin-bottom: 20px;
@@ -147,7 +147,7 @@
     <div class="container">
         <!-- مشغل الفيديو -->
         <video id="player" controls>
-            <source id="videoSource" src="" type="application/x-mpegURL">
+            <source id="videoSource" src="" type="video/mp4">
             Your browser does not support the video tag.
         </video>
 
@@ -161,7 +161,6 @@
         الحقوق محفوظة للمطور &copy; 2025 <a href="https://t.me/a9_9h9">علي حسن</a>
     </footer>
 
-    <!-- إضافة مكتبة HLS.js -->
     <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
 
     <script>
@@ -171,23 +170,57 @@
         const videoSource = document.getElementById('videoSource');
         const playlist = document.getElementById('playlist');
 
+        // تحميل ملف القنوات النصي وملئ القائمة
+        fetch('channels.txt')
+            .then(response => response.text())
+            .then(data => {
+                const lines = data.split('\n');
+                let channelName = '';
+                let channelUrl = '';
+
+                lines.forEach((line, index) => {
+                    if (index % 2 === 0) { // الأسطر الزوجية تحتوي على اسم القناة
+                        channelName = line.trim();
+                    } else { // الأسطر الفردية تحتوي على رابط الفيديو
+                        channelUrl = line.trim();
+                        if (channelName && channelUrl) {
+                            channels.push({ name: channelName, url: channelUrl });
+
+                            // إنشاء زر القناة
+                            const channelDiv = document.createElement('div');
+                            channelDiv.className = 'channel';
+                            channelDiv.innerHTML = `${channelName}`;
+                            channelDiv.onclick = () => playChannel(channels.length - 1);
+                            playlist.appendChild(channelDiv);
+                        }
+                    }
+                });
+
+                // تشغيل القناة الأولى تلقائيًا عند تحميل الصفحة
+                if (channels.length > 0) {
+                    playChannel(0);
+                }
+            })
+            .catch(error => console.error('Error loading channels:', error));
+
         // تشغيل قناة معينة
         function playChannel(index) {
             if (index >= channels.length) index = 0; // العودة للبداية إذا انتهت القائمة
             currentChannelIndex = index;
-            const videoUrl = channels[index];
+            const videoUrl = channels[index].url;
 
-            // التحقق من دعم HLS في المتصفح
-            if (Hls.isSupported()) {
+            // التحقق إذا كان الفيديو HLS (m3u8)
+            if (videoUrl.endsWith('.m3u8') && Hls.isSupported()) {
                 const hls = new Hls();
                 hls.loadSource(videoUrl);
                 hls.attachMedia(player);
                 hls.on(Hls.Events.MANIFEST_PARSED, function() {
                     player.play();
                 });
-            } else if (player.canPlayType('application/vnd.apple.mpegurl')) {
-                // دعم HLS في Safari
-                player.src = videoUrl;
+            } else {
+                // إذا كان فيديو عادي (mp4 أو غيره)
+                videoSource.src = videoUrl;
+                player.load();
                 player.play();
             }
 
@@ -202,36 +235,6 @@
             selectedChannel.forEach(channel => channel.classList.remove('selected')); // إزالة من كل القنوات
             selectedChannel[index].classList.add('selected'); // إضافة للقناة المحددة
         }
-
-        // تحميل ملف M3U
-        fetch('playlist.m3u')
-            .then(response => response.text())
-            .then(data => {
-                const lines = data.split('\n');
-                let channelName = '';
-
-                lines.forEach(line => {
-                    if (line.startsWith('#EXTINF')) {
-                        channelName = line.split(',')[1] || 'Unknown Channel';
-                    } else if (line.trim() && !line.startsWith('#')) {
-                        const channelUrl = line.trim();
-                        channels.push(channelUrl);
-
-                        // إنشاء زر القناة
-                        const channelDiv = document.createElement('div');
-                        channelDiv.className = 'channel';
-                        channelDiv.innerHTML = `${channelName}`;
-                        channelDiv.onclick = () => playChannel(channels.indexOf(channelUrl));
-                        playlist.appendChild(channelDiv);
-                    }
-                });
-
-                // تشغيل القناة الأولى تلقائيًا عند تحميل الصفحة
-                if (channels.length > 0) {
-                    playChannel(0);
-                }
-            })
-            .catch(error => console.error('Error loading playlist:', error));
     </script>
 </body>
 </html>
