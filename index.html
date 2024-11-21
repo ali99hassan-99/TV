@@ -142,7 +142,6 @@
 <body>
     <header>
         <h1>علي حسن TV</h1>
-        <!-- النص الإضافي أسفل العنوان -->
         <p class="info-text">اضغط على القناة وانتظر قليلاً ستعمل القناة.</p>
     </header>
     <div class="container">
@@ -162,6 +161,9 @@
         الحقوق محفوظة للمطور &copy; 2025 <a href="https://t.me/a9_9h9">علي حسن</a>
     </footer>
 
+    <!-- إضافة مكتبة HLS.js -->
+    <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+
     <script>
         let channels = [];
         let currentChannelIndex = 0;
@@ -173,9 +175,21 @@
         function playChannel(index) {
             if (index >= channels.length) index = 0; // العودة للبداية إذا انتهت القائمة
             currentChannelIndex = index;
-            videoSource.src = channels[index];
-            player.load();
-            player.play();
+            const videoUrl = channels[index];
+
+            // التحقق من دعم HLS في المتصفح
+            if (Hls.isSupported()) {
+                const hls = new Hls();
+                hls.loadSource(videoUrl);
+                hls.attachMedia(player);
+                hls.on(Hls.Events.MANIFEST_PARSED, function() {
+                    player.play();
+                });
+            } else if (player.canPlayType('application/vnd.apple.mpegurl')) {
+                // دعم HLS في Safari
+                player.src = videoUrl;
+                player.play();
+            }
 
             // التمرير إلى أعلى الصفحة بعد تشغيل القناة
             window.scrollTo({
