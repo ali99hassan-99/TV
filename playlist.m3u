@@ -1,1584 +1,289 @@
 #EXTM3U
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-special.png" ,##### BEIN SPORTS FHD #####
-http://activefrance.net:80/W8MEP61/2X2H702/79702
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/Bein_Sports_HD_1.png" tvg-id="beinsports1.qa" ,BEIN SPORTS 1 FHD
-http://activefrance.net:80/W8MEP61/2X2H702/73354
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/Bein_Sports_HD_1.png" tvg-id="beinseries1.qa" ,BEIN SPORTS 1 FHD²
-http://activefrance.net:80/W8MEP61/2X2H702/551241
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/Bein_Sports_HD_2.png" tvg-id="beinsports2.qa" ,BEIN SPORTS 2 FHD
-http://activefrance.net:80/W8MEP61/2X2H702/83132
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/Bein_Sports_HD_2.png" tvg-id="beinseries2.qa" ,BEIN SPORTS 2 FHD²
-http://activefrance.net:80/W8MEP61/2X2H702/551242
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/Bein_Sports_HD_3.png" tvg-id="beinsports3.qa" ,BEIN SPORTS 3 FHD
-http://activefrance.net:80/W8MEP61/2X2H702/83133
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/Bein_Sports_HD_3.png" tvg-id="beinsports3.qa" ,BEIN SPORTS 3 FHD²
-http://activefrance.net:80/W8MEP61/2X2H702/551243
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/Bein_Sports_HD_4.png" tvg-id="beinsports4.qa" ,BEIN SPORTS 4 FHD
-http://activefrance.net:80/W8MEP61/2X2H702/73360
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/Bein_Sports_HD_4.png" tvg-id="beinsports4.qa" ,BEIN SPORTS 4 FHD²
-http://activefrance.net:80/W8MEP61/2X2H702/551244
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/Bein_Sports_HD_5.png" tvg-id="beinsports5.qa" ,BEIN SPORTS 5 FHD
-http://activefrance.net:80/W8MEP61/2X2H702/73359
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/Bein_Sports_HD_5.png" tvg-id="beinsports5.qa" ,BEIN SPORTS 5 FHD²
-http://activefrance.net:80/W8MEP61/2X2H702/551245
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/Bein_Sports_HD_6.png" tvg-id="beinsports6.qa" ,BEIN SPORTS 6 FHD
-http://activefrance.net:80/W8MEP61/2X2H702/73358
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/Bein_Sports_HD_6.png" tvg-id="beinsports6.qa" ,BEIN SPORTS 6 FHD²
-http://activefrance.net:80/W8MEP61/2X2H702/551246
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/Bein_Sports_HD_7.png" tvg-id="beinsports7.qa" ,BEIN SPORTS 7 FHD
-http://activefrance.net:80/W8MEP61/2X2H702/73357
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/Bein_Sports_HD_7.png" tvg-id="beinsports7.qa" ,BEIN SPORTS 7 FHD²
-http://activefrance.net:80/W8MEP61/2X2H702/551247
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/Bein_Sports_HD_8.png" tvg-id="beinsports8.qa" ,BEIN SPORTS 8 FHD
-http://activefrance.net:80/W8MEP61/2X2H702/418596
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/Bein_Sports_HD_8.png" tvg-id="beinsports8.qa" ,BEIN SPORTS 8 FHD²
-http://activefrance.net:80/W8MEP61/2X2H702/551248
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/Bein_Sports_HD_9.png" tvg-id="beinsports9.qa" ,BEIN SPORTS 9 FHD
-http://activefrance.net:80/W8MEP61/2X2H702/418597
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/Bein_Sports_HD_9.png" tvg-id="beinsports9.qa" ,BEIN SPORTS 9 FHD²
-http://activefrance.net:80/W8MEP61/2X2H702/551249
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/BEIN/BEIN-PORTS-MAX-1.png" ,BEIN SPORTS MAX 1 FHD
-http://activefrance.net:80/W8MEP61/2X2H702/914502
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/BEIN/BEIN-PORTS-MAX-2.png" ,BEIN SPORTS MAX 2 FHD
-http://activefrance.net:80/W8MEP61/2X2H702/914501
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/BEIN/BEIN-PORTS-MAX-3.png" ,BEIN SPORTS MAX 3 FHD
-http://activefrance.net:80/W8MEP61/2X2H702/914500
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/BEIN/BEIN-PORTS-MAX-4.png" ,BEIN SPORTS MAX 4 FHD
-http://activefrance.net:80/W8MEP61/2X2H702/914499
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/BEIN/BEIN-PORTS-MAX-1.png" ,BEIN SPORTS MAX 1 AR FHD
-http://activefrance.net:80/W8MEP61/2X2H702/914515
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/BEIN/BEIN-PORTS-MAX-2.png" ,BEIN SPORTS MAX 2 AR FHD
-http://activefrance.net:80/W8MEP61/2X2H702/914516
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/BEIN/BEIN-PORTS-MAX-3.png" ,BEIN SPORTS MAX 3 EN FHD
-http://activefrance.net:80/W8MEP61/2X2H702/914517
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/BEIN/BEIN-PORTS-MAX-4.png" ,BEIN SPORTS MAX 4 FR FHD
-http://activefrance.net:80/W8MEP61/2X2H702/914518
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-xtra-1.png" tvg-id="beinsportsxtra1.qa" ,BEIN SPORTS XTRA 1 FHD
-http://activefrance.net:80/W8MEP61/2X2H702/334069
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-xtra-1.png" tvg-id="beinsportsxtra1.qa" ,BEIN SPORTS XTRA 1 FHD²
-http://activefrance.net:80/W8MEP61/2X2H702/551250
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-xtra-2.png" tvg-id="beinsportsxtra2.qa" ,BEIN SPORTS XTRA 2 FHD
-http://activefrance.net:80/W8MEP61/2X2H702/334070
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-xtra-2.png" tvg-id="beinsportsxtra2.qa" ,BEIN SPORTS XTRA 2 FHD²
-http://activefrance.net:80/W8MEP61/2X2H702/551251
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-xtra-3.png" tvg-id="beinsportsxtra3.qa" ,BEIN SPORTS XTRA 3 FHD
-http://activefrance.net:80/W8MEP61/2X2H702/418573
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-extra-3.png" tvg-id="beinsportsxtra3.qa" ,BEIN SPORTS XTRA 3 FHD²
-http://activefrance.net:80/W8MEP61/2X2H702/551262
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-english-1.png" tvg-id="beinsports1en.qa" ,BEIN SPORTS 1 ENGLISH FHD
-http://activefrance.net:80/W8MEP61/2X2H702/83134
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-english-1.png" tvg-id="beinsports1en.qa" ,BEIN SPORTS 1 ENGLISH FHD²
-http://activefrance.net:80/W8MEP61/2X2H702/551268
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-english-2.png" tvg-id="beinsports2en.qa" ,BEIN SPORTS 2 ENGLISH FHD
-http://activefrance.net:80/W8MEP61/2X2H702/211448
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-english-2.png" tvg-id="beinsports2en.qa" ,BEIN SPORTS 2 ENGLISH FHD²
-http://activefrance.net:80/W8MEP61/2X2H702/551269
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-french-1-hd.png" tvg-id="beinsports1fr.qa" ,BEIN SPORTS 1 FRENCH FHD :
-http://activefrance.net:80/W8MEP61/2X2H702/211446
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-french-2.png" tvg-id="beinsports2fr.qa" ,BEIN SPORTS 2 FRENCH FHD
-http://activefrance.net:80/W8MEP61/2X2H702/211444
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/ASIA/UAE/abudabi.png" ,AD SPORTS PREMIUM 1 FHD
-http://activefrance.net:80/W8MEP61/2X2H702/309058
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/ASIA/UAE/abudabi.png" ,AD SPORTS PREMIUM 2 FHD
-http://activefrance.net:80/W8MEP61/2X2H702/309059
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-special.png" ,##### BEIN SPORTS HD #####
-http://activefrance.net:80/W8MEP61/2X2H702/70207
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-news.png" tvg-id="beinsportsnews.qa" ,BEIN SPORTS NEWS HD
-http://activefrance.net:80/W8MEP61/2X2H702/27925
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-news.png" tvg-id="beinsportsnews.qa" ,BEIN SPORTS NEWS HD²
-http://activefrance.net:80/W8MEP61/2X2H702/551270
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/ASIA/QATAR/BEINSPORTS.png" tvg-id="beinsportsnews.qa" ,BEIN  SPORTS HD
-http://activefrance.net:80/W8MEP61/2X2H702/27902
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/BEIN/BeinSports/bein_sports.png" tvg-id="beinsportsglobal.qa" ,BEIN SPORTS HD²
-http://activefrance.net:80/W8MEP61/2X2H702/551271
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/Bein_Sports_HD_1.png" tvg-id="beinsports1.qa" ,BEIN SPORTS 1 HD ◉ :
-http://activefrance.net:80/W8MEP61/2X2H702/27898
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/Bein_Sports_HD_1.png" tvg-id="beinsports1.qa" ,BEIN SPORTS 1 HD² ◉
-http://activefrance.net:80/W8MEP61/2X2H702/551272
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/Bein_Sports_HD_2.png" tvg-id="beinsports2.qa" ,BEIN SPORTS 2 HD ◉ :
-http://activefrance.net:80/W8MEP61/2X2H702/27897
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/Bein_Sports_HD_2.png" tvg-id="beinsports2.qa" ,BEIN SPORTS 2 HD² ◉
-http://activefrance.net:80/W8MEP61/2X2H702/551273
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/Bein_Sports_HD_3.png" tvg-id="beinsports3.qa" ,BEIN SPORTS 3 HD ◉ :
-http://activefrance.net:80/W8MEP61/2X2H702/27896
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/Bein_Sports_HD_3.png" tvg-id="beinsports3.qa" ,BEIN SPORTS 3 HD² ◉
-http://activefrance.net:80/W8MEP61/2X2H702/551274
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/Bein_Sports_HD_4.png" tvg-id="beinsports7.qa" ,BEIN SPORTS 4 HD ◉
-http://activefrance.net:80/W8MEP61/2X2H702/27895
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/Bein_Sports_HD_4.png" tvg-id="beinsports4.qa" ,BEIN SPORTS 4 HD² ◉
-http://activefrance.net:80/W8MEP61/2X2H702/551275
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/Bein_Sports_HD_5.png" tvg-id="beinsports5.qa" ,BEIN SPORTS 5 HD ◉
-http://activefrance.net:80/W8MEP61/2X2H702/27894
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/Bein_Sports_HD_5.png" tvg-id="beinsports5.qa" ,BEIN SPORTS 5 HD² ◉
-http://activefrance.net:80/W8MEP61/2X2H702/551276
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/Bein_Sports_HD_6.png" tvg-id="beinsports6.qa" ,BEIN SPORTS 6 HD
-http://activefrance.net:80/W8MEP61/2X2H702/27893
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/Bein_Sports_HD_6.png" tvg-id="beinsports6.qa" ,BEIN SPORTS 6 HD²
-http://activefrance.net:80/W8MEP61/2X2H702/551277
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/Bein_Sports_HD_7.png" tvg-id="beinsports7.qa" ,BEIN SPORTS 7 HD
-http://activefrance.net:80/W8MEP61/2X2H702/27892
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/Bein_Sports_HD_7.png" tvg-id="beinsports7.qa" ,BEIN SPORTS 7 HD²
-http://activefrance.net:80/W8MEP61/2X2H702/551278
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/Bein_Sports_HD_8.png" tvg-id="beinsports8.qa" ,BEIN SPORTS 8 HD
-http://activefrance.net:80/W8MEP61/2X2H702/418579
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/Bein_Sports_HD_8.png" tvg-id="beinsports8.qa" ,BEIN SPORTS 8 HD²
-http://activefrance.net:80/W8MEP61/2X2H702/551279
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/Bein_Sports_HD_9.png" tvg-id="beinsports9.qa" ,BEIN SPORTS 9 HD
-http://activefrance.net:80/W8MEP61/2X2H702/418583
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/Bein_Sports_HD_9.png" tvg-id="beinsports9.qa" ,BEIN SPORTS 9 HD²
-http://activefrance.net:80/W8MEP61/2X2H702/551280
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/BEIN/BEIN-PORTS-MAX-1.png" ,BEIN SPORTS MAX 1 ²
-http://activefrance.net:80/W8MEP61/2X2H702/914495
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/BEIN/BEIN-PORTS-MAX-2.png" ,BEIN SPORTS MAX 2 ²
-http://activefrance.net:80/W8MEP61/2X2H702/914496
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/BEIN/BEIN-PORTS-MAX-3.png" ,BEIN SPORTS MAX 3 ²
-http://activefrance.net:80/W8MEP61/2X2H702/914497
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/BEIN/BEIN-PORTS-MAX-4.png" ,BEIN SPORTS MAX 4 ²
-http://activefrance.net:80/W8MEP61/2X2H702/914498
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/BEIN/BEIN-PORTS-MAX-1.png" ,BEIN SPORTS MAX 1 AR HD
-http://activefrance.net:80/W8MEP61/2X2H702/914503
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/BEIN/BEIN-PORTS-MAX-2.png" ,BEIN SPORTS MAX 2 AR HD
-http://activefrance.net:80/W8MEP61/2X2H702/914504
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/BEIN/BEIN-PORTS-MAX-3.png" ,BEIN SPORTS MAX 3 EN HD
-http://activefrance.net:80/W8MEP61/2X2H702/914505
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/BEIN/BEIN-PORTS-MAX-4.png" ,BEIN SPORTS MAX 4 FR HD
-http://activefrance.net:80/W8MEP61/2X2H702/914506
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-xtra-1.png" tvg-id="beinsportsxtra1.qa" ,BEIN SPORTS XTRA 1 HD
-http://activefrance.net:80/W8MEP61/2X2H702/27891
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-xtra-1.png" tvg-id="beinsportsxtra1.qa" ,BEIN SPORTS XTRA 1 HD²
-http://activefrance.net:80/W8MEP61/2X2H702/551281
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-xtra-2.png" tvg-id="beinsportsxtra2.qa" ,BEIN SPORTS XTRA 2 HD
-http://activefrance.net:80/W8MEP61/2X2H702/334019
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-xtra-2.png" tvg-id="beinsportsxtra2.qa" ,BEIN SPORTS XTRA 2 HD²
-http://activefrance.net:80/W8MEP61/2X2H702/551282
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-extra-3.png" tvg-id="beinsportsxtra3.qa" ,BEIN SPORTS XTRA 3 HD
-http://activefrance.net:80/W8MEP61/2X2H702/418511
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-extra-3.png" tvg-id="beinsportsxtra3.qa" ,BEIN SPORTS XTRA 3 HD²
-http://activefrance.net:80/W8MEP61/2X2H702/551283
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-english-1.png" tvg-id="beinsports1en.qa" ,BEIN SPORTS 1 ENGLISH HD
-http://activefrance.net:80/W8MEP61/2X2H702/27889
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-english-1.png" tvg-id="beinsports1en.qa" ,BEIN SPORTS 1 ENGLISH HD²
-http://activefrance.net:80/W8MEP61/2X2H702/551284
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-english-2.png" tvg-id="beinsports2en.qa" ,BEIN SPORTS 2 ENGLISH HD
-http://activefrance.net:80/W8MEP61/2X2H702/63814
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-english-2.png" tvg-id="beinsports2en.qa" ,BEIN SPORTS 2 ENGLISH HD²
-http://activefrance.net:80/W8MEP61/2X2H702/551285
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-french-1-hd.png" tvg-id="beinsports1fr.qa" ,BEIN SPORTS 1 FRENCH HD
-http://activefrance.net:80/W8MEP61/2X2H702/27886
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-french-1-hd.png" tvg-id="beinsports1fr.qa" ,BEIN SPORTS 1 FRENCH HD²
-http://activefrance.net:80/W8MEP61/2X2H702/551286
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-french-2.png" tvg-id="beinsports2fr.qa" ,BEIN SPORTS 2 FRENCH HD
-http://activefrance.net:80/W8MEP61/2X2H702/211671
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-french-2.png" tvg-id="beinsports2fr.qa" ,BEIN SPORTS 2 FRENCH HD²
-http://activefrance.net:80/W8MEP61/2X2H702/551287
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein_Sports_NBA.png" tvg-id="aljazeeradocumentary.qa" ,BEIN SPORTS NBA HD
-http://activefrance.net:80/W8MEP61/2X2H702/271227
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein_Sports_NBA.png" tvg-id="beinsportsnba.qa" ,BEIN SPORTS NBA HD²
-http://activefrance.net:80/W8MEP61/2X2H702/551289
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/ASIA/BUDABI/starzplay.png" ,##### STARZ PLAY SPORTS #####
-http://activefrance.net:80/W8MEP61/2X2H702/309057
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-special.png" ,##### BEIN SPORTS #####
-http://activefrance.net:80/W8MEP61/2X2H702/27924
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-news.png" tvg-id="beinsportsnews.qa" , BEIN SPORTS NEWS
-http://activefrance.net:80/W8MEP61/2X2H702/333933
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-news.png" tvg-id="beinsportsnews.qa" ,BEIN SPORTS NEWS²
-http://activefrance.net:80/W8MEP61/2X2H702/551290
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/BEIN/BeinSports/bein_sports.png" tvg-id="beinsportsglobal.qa" ,BEIN SPORTS
-http://activefrance.net:80/W8MEP61/2X2H702/333934
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/BEIN/BeinSports/bein_sports.png" tvg-id="beinsportsglobal.qa" ,BEIN SPORTS²
-http://activefrance.net:80/W8MEP61/2X2H702/551291
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein1.png" tvg-id="beinsports1.qa" ,BEIN SPORTS 1
-http://activefrance.net:80/W8MEP61/2X2H702/18111
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein1.png" tvg-id="beinsports1.qa" ,BEIN SPORTS 1²
-http://activefrance.net:80/W8MEP61/2X2H702/551292
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-hd-2.png" tvg-id="beinsports2.qa" ,BEIN SPORTS 2
-http://activefrance.net:80/W8MEP61/2X2H702/18110
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-hd-2.png" tvg-id="beinsports2.qa" ,BEIN SPORTS 2²
-http://activefrance.net:80/W8MEP61/2X2H702/551293
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-3.png" tvg-id="beinsports3.qa" ,BEIN SPORTS 3
-http://activefrance.net:80/W8MEP61/2X2H702/18109
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-3.png" tvg-id="beinsports3.qa" ,BEIN SPORTS 3²
-http://activefrance.net:80/W8MEP61/2X2H702/551294
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-4.png" tvg-id="beinsports4.qa" ,BEIN SPORTS 4
-http://activefrance.net:80/W8MEP61/2X2H702/18108
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-4.png" tvg-id="beinsports4.qa" ,BEIN SPORTS 4²
-http://activefrance.net:80/W8MEP61/2X2H702/551295
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-hd-5.png" tvg-id="beinsports5.qa" ,BEIN SPORTS 5
-http://activefrance.net:80/W8MEP61/2X2H702/18107
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-hd-5.png" tvg-id="beinsports5.qa" ,BEIN SPORTS 5²
-http://activefrance.net:80/W8MEP61/2X2H702/551296
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-hd-6.png" tvg-id="beinsports6.qa" ,BEIN SPORTS 6
-http://activefrance.net:80/W8MEP61/2X2H702/18106
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-hd-6.png" tvg-id="beinsports6.qa" ,BEIN SPORTS 6²
-http://activefrance.net:80/W8MEP61/2X2H702/551297
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-hd-7.png" tvg-id="beinsports7.qa" ,BEIN SPORTS 7
-http://activefrance.net:80/W8MEP61/2X2H702/73323
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-hd-7.png" tvg-id="beinsports7.qa" ,BEIN SPORTS 7²
-http://activefrance.net:80/W8MEP61/2X2H702/551298
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-hd-8.png" tvg-id="beinsports8.qa" ,BEIN SPORTS 8
-http://activefrance.net:80/W8MEP61/2X2H702/550001
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-hd-8.png" tvg-id="beinsports8.qa" ,BEIN SPORTS 8²
-http://activefrance.net:80/W8MEP61/2X2H702/551299
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-hd-9.png" tvg-id="beinsports9.qa" ,BEIN SPORTS 9
-http://activefrance.net:80/W8MEP61/2X2H702/550002
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-hd-9.png" tvg-id="beinsports9.qa" ,BEIN SPORTS 9²
-http://activefrance.net:80/W8MEP61/2X2H702/551300
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/BEIN/BEIN-PORTS-MAX-1.png" ,BEIN SPORTS MAX 1
-http://activefrance.net:80/W8MEP61/2X2H702/914490
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/BEIN/BEIN-PORTS-MAX-2.png" ,BEIN SPORTS MAX 2
-http://activefrance.net:80/W8MEP61/2X2H702/914489
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/BEIN/BEIN-PORTS-MAX-3.png" ,BEIN SPORTS MAX 3
-http://activefrance.net:80/W8MEP61/2X2H702/914488
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/BEIN/BEIN-PORTS-MAX-4.png" ,BEIN SPORTS MAX 4
-http://activefrance.net:80/W8MEP61/2X2H702/914487
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/BEIN/BEIN-PORTS-MAX-1.png" ,BEIN SPORTS MAX 1 AR
-http://activefrance.net:80/W8MEP61/2X2H702/914507
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/BEIN/BEIN-PORTS-MAX-2.png" ,BEIN SPORTS MAX 2 AR
-http://activefrance.net:80/W8MEP61/2X2H702/914508
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/BEIN/BEIN-PORTS-MAX-3.png" ,BEIN SPORTS MAX 3 EN
-http://activefrance.net:80/W8MEP61/2X2H702/914509
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/BEIN/BEIN-PORTS-MAX-4.png" ,BEIN SPORTS MAX 4 FR
-http://activefrance.net:80/W8MEP61/2X2H702/914510
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-xtra-1.png" tvg-id="beinsportsxtra1.qa" ,BEIN SPORTS XTRA 1
-http://activefrance.net:80/W8MEP61/2X2H702/334067
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-xtra-1.png" tvg-id="beinsportsxtra1.qa" ,BEIN SPORTS XTRA 1²
-http://activefrance.net:80/W8MEP61/2X2H702/551301
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-xtra-2.png" tvg-id="beinsportsxtra2.qa" ,BEIN SPORTS XTRA 2
-http://activefrance.net:80/W8MEP61/2X2H702/334068
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-xtra-2.png" tvg-id="beinsportsxtra2.qa" ,BEIN SPORTS XTRA 2²
-http://activefrance.net:80/W8MEP61/2X2H702/551302
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-extra-3.png" tvg-id="beinsportsxtra3.qa" ,BEIN SPORTS XTRA 3
-http://activefrance.net:80/W8MEP61/2X2H702/418502
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-extra-3.png" tvg-id="beinsportsxtra3.qa" ,BEIN SPORTS XTRA 3²
-http://activefrance.net:80/W8MEP61/2X2H702/551303
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-english-1.png" tvg-id="beinsports1en.qa" ,BEIN SPORTS 1 ENGLISH
-http://activefrance.net:80/W8MEP61/2X2H702/63816
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-english-1.png" tvg-id="beinsports1en.qa" ,BEIN SPORTS 1 ENGLISH²
-http://activefrance.net:80/W8MEP61/2X2H702/551304
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-english-2.png" tvg-id="beinsports2en.qa" ,BEIN SPORTS 2 ENGLISH
-http://activefrance.net:80/W8MEP61/2X2H702/550000
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-english-2.png" tvg-id="beinsports2en.qa" ,BEIN SPORTS 2 ENGLISH²
-http://activefrance.net:80/W8MEP61/2X2H702/551305
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-french-1.png" tvg-id="beinsports1fr.qa" ,BEIN SPORTS 1 FRENCH
-http://activefrance.net:80/W8MEP61/2X2H702/63815
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-french-2.png" tvg-id="beinsports2fr.qa" ,BEIN SPORTS 2 FRENCH
-http://activefrance.net:80/W8MEP61/2X2H702/211632
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/BEIN/BEIN-PORTS-MAX-1.png" ,BEIN SPORTS MAX 1 AR RAW
-http://activefrance.net:80/W8MEP61/2X2H702/914519
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/BEIN/BEIN-PORTS-MAX-2.png" ,beIN SPORTS MAX 2 AR RAW
-http://activefrance.net:80/W8MEP61/2X2H702/914520
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/BEIN/BEIN-PORTS-MAX-3.png" ,beIN SPORTS MAX 3 EN RAW
-http://activefrance.net:80/W8MEP61/2X2H702/914521
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/BEIN/BEIN-PORTS-MAX-4.png" ,beIN SPORTS MAX 4 FR RAW
-http://activefrance.net:80/W8MEP61/2X2H702/914522
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein1.png" ,beIN Sports HD 1 :
-http://activefrance.net:80/W8MEP61/2X2H702/977115
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/global.png" ,LO beINSPORTS GLOBAL FHD
-http://activefrance.net:80/W8MEP61/2X2H702/986957
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein111.png" ,LO beINSPORTS NEWS FHD
-http://activefrance.net:80/W8MEP61/2X2H702/986958
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/PHILIPINES/Bein_Sports2.png" ,LO beIN SPORTS 02 FHD:
-http://activefrance.net:80/W8MEP61/2X2H702/986959
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/Bein_Sports_HD_3.png" ,LO beIN SPORTS 03 FHD
-http://activefrance.net:80/W8MEP61/2X2H702/986960
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/Bein_Sports_HD_4.png" ,LO beIN SPORTS 04 FHD
-http://activefrance.net:80/W8MEP61/2X2H702/986961
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/Bein_Sports_HD_5.png" ,LO beIN SPORTS 05 FHD
-http://activefrance.net:80/W8MEP61/2X2H702/986962
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/Bein_Sports_HD_6.png" ,LO beIN SPORTS 06 FHD
-http://activefrance.net:80/W8MEP61/2X2H702/986963
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-hd-7.png" ,LO beIN SPORTS 07 FHD
-http://activefrance.net:80/W8MEP61/2X2H702/986964
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-hd-8.png" ,LO beIN SPORTS 08 FHD
-http://activefrance.net:80/W8MEP61/2X2H702/986965
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-hd-9.png" ,LO beIN SPORTS 09 FHD
-http://activefrance.net:80/W8MEP61/2X2H702/986966
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-xtra-1.png" ,LO beIN SPORTS XTRA 1 FHD
-http://activefrance.net:80/W8MEP61/2X2H702/986967
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-xtra-2.png" ,LO beIN SPORTS XTRA 2 FHD
-http://activefrance.net:80/W8MEP61/2X2H702/986968
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein_Sports_NBA.png" ,LO beIN SPORTS NBA FHD
-http://activefrance.net:80/W8MEP61/2X2H702/986969
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-english-1.png" ,LO beIN SPORTS 01 FHD EN
-http://activefrance.net:80/W8MEP61/2X2H702/986970
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-english-2.png" ,LO beIN SPORTS 02 FHD EN
-http://activefrance.net:80/W8MEP61/2X2H702/986971
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/global.png" ,LO beINSPORTS GLOBAL HEVC
-http://activefrance.net:80/W8MEP61/2X2H702/986972
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/Bein_Sports_HD_1.png" ,LO beIN Sports 1 HEVC
-http://activefrance.net:80/W8MEP61/2X2H702/986973
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-hd-2.png" ,LO beIN Sports 2 HEVC :
-http://activefrance.net:80/W8MEP61/2X2H702/986974
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/Bein_Sports_HD_3.png" ,LO beIN Sports 3 HEVC
-http://activefrance.net:80/W8MEP61/2X2H702/986975
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/Bein_Sports_HD_4.png" ,LO beIN Sports 4 HEVC
-http://activefrance.net:80/W8MEP61/2X2H702/986976
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/Bein_Sports_HD_5.png" ,LO beIN Sports 5 HEVC
-http://activefrance.net:80/W8MEP61/2X2H702/986977
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/Bein_Sports_HD_6.png" ,LO beIN Sports 6 HEVC
-http://activefrance.net:80/W8MEP61/2X2H702/986978
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-hd-7.png" ,LO beIN Sports 7 HEVC
-http://activefrance.net:80/W8MEP61/2X2H702/986979
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-hd-8.png" ,LO beIN Sports 8 HEVC
-http://activefrance.net:80/W8MEP61/2X2H702/986980
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-hd-9.png" ,LO beIN Sports 9 HEVC
-http://activefrance.net:80/W8MEP61/2X2H702/986981
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-xtra-1.png" ,LO beIN SPORTS XTRA 1 HEVC
-http://activefrance.net:80/W8MEP61/2X2H702/986982
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-xtra-2.png" ,LO beIN SPORTS XTRA 2 HEVC
-http://activefrance.net:80/W8MEP61/2X2H702/986983
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein_Sports_NBA.png" ,LO beIN Sports NBA HEVC
-http://activefrance.net:80/W8MEP61/2X2H702/986984
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-english-1.png" ,LO beIN Sports 01 HEVC EN
-http://activefrance.net:80/W8MEP61/2X2H702/986985
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-english-2.png" ,LO beIN SPORTS 02 HEVC EN
-http://activefrance.net:80/W8MEP61/2X2H702/986986
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-french-1-hd.png" ,LO beIN Sports 1 FR HEVC
-http://activefrance.net:80/W8MEP61/2X2H702/986987
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-french-2.png" ,LO beIN Sports 2 FR HEVC
-http://activefrance.net:80/W8MEP61/2X2H702/986988
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/Bein_Sports_HD_3.png" ,LO beIN Sports 03 FR HEVC
-http://activefrance.net:80/W8MEP61/2X2H702/986989
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/global.png" ,LO beINSPORTS GLOBAL HD
-http://activefrance.net:80/W8MEP61/2X2H702/986990
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/global.png" ,beIN SPORTS HD global
-http://activefrance.net:80/W8MEP61/2X2H702/986991
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein111.png" ,LO beINSPORTS NEWS HD
-http://activefrance.net:80/W8MEP61/2X2H702/986992
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein111.png" ,beIN SPORTS NEWS HD
-http://activefrance.net:80/W8MEP61/2X2H702/986993
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/Bein_Sports_HD_1.png" ,LO beIN SPORTS 01 HD
-http://activefrance.net:80/W8MEP61/2X2H702/986994
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/PHILIPINES/Bein_Sports2.png" ,LO beIN SPORTS 02 HD
-http://activefrance.net:80/W8MEP61/2X2H702/986995
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/Bein_Sports_HD_3.png" ,LO beIN SPORTS 03 HD
-http://activefrance.net:80/W8MEP61/2X2H702/986996
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/Bein_Sports_HD_4.png" ,LO beIN SPORTS 04 HD
-http://activefrance.net:80/W8MEP61/2X2H702/986997
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/Bein_Sports_HD_5.png" ,LO beIN SPORTS 05 HD
-http://activefrance.net:80/W8MEP61/2X2H702/986998
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/Bein_Sports_HD_6.png" ,LO beIN SPORTS 06 HD
-http://activefrance.net:80/W8MEP61/2X2H702/986999
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-hd-7.png" ,LO beIN SPORTS 07 HD
-http://activefrance.net:80/W8MEP61/2X2H702/987000
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-hd-8.png" ,LO beIN SPORTS 08 HD
-http://activefrance.net:80/W8MEP61/2X2H702/987001
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-hd-9.png" ,LO beIN SPORTS 09 HD
-http://activefrance.net:80/W8MEP61/2X2H702/987002
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-xtra-1.png" ,LO beIN SPORTS XTRA 1 HD
-http://activefrance.net:80/W8MEP61/2X2H702/987003
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-xtra-2.png" ,LO beIN SPORTS XTRA 2 HD
-http://activefrance.net:80/W8MEP61/2X2H702/987004
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-english-1.png" ,LO beIN SPORTS 01 HD EN
-http://activefrance.net:80/W8MEP61/2X2H702/987005
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-english-2.png" ,LO beIN SPORTS 02 HD EN
-http://activefrance.net:80/W8MEP61/2X2H702/987006
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-french-1.png" ,LO beIN SPORTS 01 HD FR
-http://activefrance.net:80/W8MEP61/2X2H702/987007
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-french-2.png" ,LO beIN SPORTS 02 HD FR
-http://activefrance.net:80/W8MEP61/2X2H702/987008
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/global.png" ,LO beINSPORTS GLOBAL SD
-http://activefrance.net:80/W8MEP61/2X2H702/987009
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein111.png" ,LO beINSPORTS NEWS SD
-http://activefrance.net:80/W8MEP61/2X2H702/987010
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/Bein_Sports_HD_1.png" ,LO BEIN SPORTS 01 SD
-http://activefrance.net:80/W8MEP61/2X2H702/987011
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/PHILIPINES/Bein_Sports2.png" ,LO BEIN SPORTS 02 SD
-http://activefrance.net:80/W8MEP61/2X2H702/987012
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-3.png" ,LO BEINS PORTS 03 SD
-http://activefrance.net:80/W8MEP61/2X2H702/987013
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-4.png" ,LO BEINS PORTS 04 SD
-http://activefrance.net:80/W8MEP61/2X2H702/987014
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-hd-5.png" ,LO BEINS PORTS 05 SD
-http://activefrance.net:80/W8MEP61/2X2H702/987015
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-hd-6.png" ,LO BEINS PORTS 06 SD
-http://activefrance.net:80/W8MEP61/2X2H702/987016
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-hd-7.png" ,LO BEINS PORTS 07 SD
-http://activefrance.net:80/W8MEP61/2X2H702/987017
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-hd-8.png" ,LO BEINS PORTS 08 SD
-http://activefrance.net:80/W8MEP61/2X2H702/987018
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-hd-9.png" ,LO BEINS PORTS 09 SD
-http://activefrance.net:80/W8MEP61/2X2H702/987019
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein_Sports_NBA.png" ,LO BEINSPORTS NBA SD
-http://activefrance.net:80/W8MEP61/2X2H702/987020
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-xtra-1.png" ,LO beIN SPORTS XTRA 1 SD
-http://activefrance.net:80/W8MEP61/2X2H702/987021
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-xtra-2.png" ,LO beIN SPORTS XTRA 2 SD
-http://activefrance.net:80/W8MEP61/2X2H702/987022
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-extra-3.png" ,LO BEIN SPORTS XTRA 03 SD
-http://activefrance.net:80/W8MEP61/2X2H702/987023
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-english-1.png" ,LO BEINS PORTS 01 SD EN
-http://activefrance.net:80/W8MEP61/2X2H702/987024
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-english-2.png" ,LO BEINS PORTS 02 SD EN
-http://activefrance.net:80/W8MEP61/2X2H702/987025
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/bein/bein-sports-french-1.png" ,LO BEINSPORTS FR SD 1
-http://activefrance.net:80/W8MEP61/2X2H702/987026
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/BEIN/BEIN-PORTS-MAX-1.png" ,BEIN SPORTS MAX 1 FHD²
-http://activefrance.net:80/W8MEP61/2X2H702/914585
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/BEIN/BEIN-PORTS-MAX-2.png" ,BEIN SPORTS MAX 2 FHD²
-http://activefrance.net:80/W8MEP61/2X2H702/914586
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/BEIN/BEIN-PORTS-MAX-3.png" ,BEIN SPORTS MAX 3 FHD²
-http://activefrance.net:80/W8MEP61/2X2H702/914587
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/BEIN/BEIN-PORTS-MAX-4.png" ,BEIN SPORTS MAX 4 FHD²
-http://activefrance.net:80/W8MEP61/2X2H702/914588
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/BEIN/BEIN-PORTS-MAX-5.png" ,BEIN SPORTS MAX 5 FHD
-http://activefrance.net:80/W8MEP61/2X2H702/914589
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/BEIN/BEIN-PORTS-MAX-6.png" ,BEIN SPORTS MAX 6 FHD
-http://activefrance.net:80/W8MEP61/2X2H702/914590
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/BEIN/BEIN-PORTS-MAX-1.png" ,BEIN SPORTS MAX 1 HD
-http://activefrance.net:80/W8MEP61/2X2H702/914591
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/BEIN/BEIN-PORTS-MAX-2.png" ,BEIN SPORTS MAX 2 HD
-http://activefrance.net:80/W8MEP61/2X2H702/914592
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/BEIN/BEIN-PORTS-MAX-3.png" ,BEIN SPORTS MAX 3 HD
-http://activefrance.net:80/W8MEP61/2X2H702/914593
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/BEIN/BEIN-PORTS-MAX-4.png" ,BEIN SPORTS MAX 4 HD
-http://activefrance.net:80/W8MEP61/2X2H702/914594
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/BEIN/BEIN-PORTS-MAX-5.png" ,BEIN SPORTS MAX 5 HD
-http://activefrance.net:80/W8MEP61/2X2H702/914595
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/BEIN/BEIN-PORTS-MAX-6.png" ,BEIN SPORTS MAX 6 HD
-http://activefrance.net:80/W8MEP61/2X2H702/914596
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/BEIN/BEIN-PORTS-MAX-1.png" ,BEIN SPORTS MAX 1 ²
-http://activefrance.net:80/W8MEP61/2X2H702/914597
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/BEIN/BEIN-PORTS-MAX-2.png" ,BEIN SPORTS MAX 2 ²
-http://activefrance.net:80/W8MEP61/2X2H702/914598
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/BEIN/BEIN-PORTS-MAX-3.png" ,BEIN SPORTS MAX 3 ²
-http://activefrance.net:80/W8MEP61/2X2H702/914599
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/BEIN/BEIN-PORTS-MAX-4.png" ,BEIN SPORTS MAX 4 ²
-http://activefrance.net:80/W8MEP61/2X2H702/914600
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/BEIN/BEIN-PORTS-MAX-5.png" ,BEIN SPORTS MAX 5
-http://activefrance.net:80/W8MEP61/2X2H702/914601
-#EXTINF:-1 group-title="AR | BEIN SPORT" tvg-logo="http://go4.pw/BEIN/BEIN-PORTS-MAX-6.png" ,BEIN SPORTS MAX 6
-http://activefrance.net:80/W8MEP61/2X2H702/914602
-#EXTINF:-1 group-title="AR | BEIN SPORT" ,AR - BEIN SPORTS 1 ULTRA 4K
-http://activefrance.net:80/W8MEP61/2X2H702/1023969
-#EXTINF:-1 group-title="AR | BEIN SPORT 4K" tvg-logo="http://go4.pw/BEIN/bss4k.png" ,##### BEIN SPORTS 4K+ #####
-http://activefrance.net:80/W8MEP61/2X2H702/207574
-#EXTINF:-1 group-title="AR | BEIN SPORT 4K" tvg-logo="http://go4.pw/BEIN/4kkkk.png" tvg-id="beinsportsglobal.qa" ,BEIN SPORTS GLOBAL 4K²
-http://activefrance.net:80/W8MEP61/2X2H702/552066
-#EXTINF:-1 group-title="AR | BEIN SPORT 4K" tvg-logo="http://go4.pw/BEIN/bsnews.png" tvg-id="beinsportsnews.qa" ,BEIN SPORTS NEWS 4K²
-http://activefrance.net:80/W8MEP61/2X2H702/552065
-#EXTINF:-1 group-title="AR | BEIN SPORT 4K" tvg-logo="http://go4.pw/BEIN/bs4k.png" tvg-id="beinsports1.qa" ,BEIN SPORTS 1 4K+
-http://activefrance.net:80/W8MEP61/2X2H702/203885
-#EXTINF:-1 group-title="AR | BEIN SPORT 4K" tvg-logo="http://go4.pw/BEIN/bs4k.png" tvg-id="beinsports1.qa" ,BEIN SPORTS 1 4K²
-http://activefrance.net:80/W8MEP61/2X2H702/552067
-#EXTINF:-1 group-title="AR | BEIN SPORT 4K" tvg-logo="http://go4.pw/BEIN/bs4k.png" tvg-id="beinsports2.qa" ,BEIN SPORTS 2 4K+
-http://activefrance.net:80/W8MEP61/2X2H702/203886
-#EXTINF:-1 group-title="AR | BEIN SPORT 4K" tvg-logo="http://go4.pw/BEIN/bs4k.png" tvg-id="beinsports2.qa" ,BEIN SPORTS 2 4K²
-http://activefrance.net:80/W8MEP61/2X2H702/552068
-#EXTINF:-1 group-title="AR | BEIN SPORT 4K" tvg-logo="http://go4.pw/BEIN/bs4k.png" tvg-id="beinsports3.qa" ,BEIN SPORTS 3 4K+
-http://activefrance.net:80/W8MEP61/2X2H702/203887
-#EXTINF:-1 group-title="AR | BEIN SPORT 4K" tvg-logo="http://go4.pw/BEIN/bs4k.png" tvg-id="beinsports3.qa" ,BEIN SPORTS 3 4K²
-http://activefrance.net:80/W8MEP61/2X2H702/552069
-#EXTINF:-1 group-title="AR | BEIN SPORT 4K" tvg-logo="http://go4.pw/BEIN/bs4k.png" tvg-id="beinsports4.qa" ,BEIN SPORTS 4 4K+
-http://activefrance.net:80/W8MEP61/2X2H702/203888
-#EXTINF:-1 group-title="AR | BEIN SPORT 4K" tvg-logo="http://go4.pw/BEIN/bs4k.png" tvg-id="beinsports4.qa" ,BEIN SPORTS 4 4K²
-http://activefrance.net:80/W8MEP61/2X2H702/552073
-#EXTINF:-1 group-title="AR | BEIN SPORT 4K" tvg-logo="http://go4.pw/BEIN/bs4k.png" tvg-id="beinsports5.qa" ,BEIN SPORTS 5 4K+
-http://activefrance.net:80/W8MEP61/2X2H702/203889
-#EXTINF:-1 group-title="AR | BEIN SPORT 4K" tvg-logo="http://go4.pw/BEIN/bs4k.png" tvg-id="beinsports5.qa" ,BEIN SPORTS 5 4K²
-http://activefrance.net:80/W8MEP61/2X2H702/552074
-#EXTINF:-1 group-title="AR | BEIN SPORT 4K" tvg-logo="http://go4.pw/BEIN/bs4k.png" tvg-id="beinsports6.qa" ,BEIN SPORTS 6 4K+
-http://activefrance.net:80/W8MEP61/2X2H702/203890
-#EXTINF:-1 group-title="AR | BEIN SPORT 4K" tvg-logo="http://go4.pw/BEIN/bs4k.png" tvg-id="beinsports6.qa" ,BEIN SPORTS 6 4K²
-http://activefrance.net:80/W8MEP61/2X2H702/552075
-#EXTINF:-1 group-title="AR | BEIN SPORT 4K" tvg-logo="http://go4.pw/BEIN/bs4k.png" tvg-id="beinsports7.qa" ,BEIN SPORTS 7 4K+
-http://activefrance.net:80/W8MEP61/2X2H702/203891
-#EXTINF:-1 group-title="AR | BEIN SPORT 4K" tvg-logo="http://go4.pw/BEIN/bs4k.png" tvg-id="beinsports7.qa" ,BEIN SPORTS 7 4K²
-http://activefrance.net:80/W8MEP61/2X2H702/552076
-#EXTINF:-1 group-title="AR | BEIN SPORT 4K" tvg-logo="http://go4.pw/BEIN/bs4k.png" tvg-id="beinsports8.qa" ,BEIN SPORTS 8 4K²
-http://activefrance.net:80/W8MEP61/2X2H702/552077
-#EXTINF:-1 group-title="AR | BEIN SPORT 4K" tvg-logo="http://go4.pw/BEIN/bs4k.png" tvg-id="beinsports9.qa" ,BEIN SPORTS 9 4K²
-http://activefrance.net:80/W8MEP61/2X2H702/552078
-#EXTINF:-1 group-title="AR | BEIN SPORT 4K" tvg-logo="http://go4.pw/BEIN/bs4k.png" ,BEIN SPORTS MAX 1 4K
-http://activefrance.net:80/W8MEP61/2X2H702/914472
-#EXTINF:-1 group-title="AR | BEIN SPORT 4K" tvg-logo="http://go4.pw/BEIN/bs4k.png" ,BEIN SPORTS MAX 2 4K
-http://activefrance.net:80/W8MEP61/2X2H702/914473
-#EXTINF:-1 group-title="AR | BEIN SPORT 4K" tvg-logo="http://go4.pw/BEIN/bs4k.png" ,BEIN SPORTS MAX 3 4K
-http://activefrance.net:80/W8MEP61/2X2H702/914474
-#EXTINF:-1 group-title="AR | BEIN SPORT 4K" tvg-logo="http://go4.pw/BEIN/bs4k.png" ,BEIN SPORTS MAX 4 4K
-http://activefrance.net:80/W8MEP61/2X2H702/914475
-#EXTINF:-1 group-title="AR | BEIN SPORT 4K" tvg-logo="http://go4.pw/BEIN/bs4k.png" ,BEIN SPORTS MAX 5 4K
-http://activefrance.net:80/W8MEP61/2X2H702/914476
-#EXTINF:-1 group-title="AR | BEIN SPORT 4K" tvg-logo="http://go4.pw/BEIN/bs4k.png" ,BEIN SPORTS MAX 6 4K
-http://activefrance.net:80/W8MEP61/2X2H702/914477
-#EXTINF:-1 group-title="AR | BEIN SPORT 4K" tvg-logo="http://go4.pw/BEIN/bsxtra1.png" tvg-id="beinsportsxtra1.qa" ,BEIN SPORTS 1 XTRA 4K²
-http://activefrance.net:80/W8MEP61/2X2H702/552079
-#EXTINF:-1 group-title="AR | BEIN SPORT 4K" tvg-logo="http://go4.pw/BEIN/bsxtra2.png" tvg-id="beinsportsxtra2.qa" ,BEIN SPORTS 2 XTRA 4K²
-http://activefrance.net:80/W8MEP61/2X2H702/552080
-#EXTINF:-1 group-title="AR | BEIN SPORT 4K" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTSXTRA3.png" tvg-id="beinsportsxtra3.qa" ,BEIN SPORTS 3 XTRA 4K²
-http://activefrance.net:80/W8MEP61/2X2H702/552081
-#EXTINF:-1 group-title="AR | BEIN SPORT 4K" tvg-logo="http://go4.pw/BEIN/AFC.png" ,Bein Sport AFC 4K
-http://activefrance.net:80/W8MEP61/2X2H702/331736
-#EXTINF:-1 group-title="AR | BEIN SPORT 4K" tvg-logo="http://go4.pw/BEIN/bein.afc/bein.afc1.png" ,BEIN SPORTS AFC 1 4K
-http://activefrance.net:80/W8MEP61/2X2H702/576808
-#EXTINF:-1 group-title="AR | BEIN SPORT 4K" tvg-logo="http://go4.pw/BEIN/bein.afc/bein.afc2.png" ,BEIN SPORTS AFC 2 4K
-http://activefrance.net:80/W8MEP61/2X2H702/576857
-#EXTINF:-1 group-title="AR | BEIN SPORT 4K" tvg-logo="http://go4.pw/BEIN/bein.afc/bein.afc3.png" ,BEIN SPORTS AFC 3 4K
-http://activefrance.net:80/W8MEP61/2X2H702/576864
-#EXTINF:-1 group-title="AR | BEIN SPORT 4K" tvg-logo="http://go4.pw/BEIN/Beinsports-4k/beIN_SPORTS1_ENGLISH.1.4k.png" tvg-id="beinsports1en.qa" ,BEIN SPORTS ENGLISH 1 4K+
-http://activefrance.net:80/W8MEP61/2X2H702/334051
-#EXTINF:-1 group-title="AR | BEIN SPORT 4K" tvg-logo="http://go4.pw/BEIN/bs1eng.png" tvg-id="beinsports1en.qa" ,BEIN SPORTS 1 ENGLISH 4K²
-http://activefrance.net:80/W8MEP61/2X2H702/552082
-#EXTINF:-1 group-title="AR | BEIN SPORT 4K" tvg-logo="http://go4.pw/BEIN/Beinsports-4k/bein-sports-english-2.4k.png" tvg-id="beinsports2en.qa" ,BEIN SPORTS ENGLISH 2 4K+
-http://activefrance.net:80/W8MEP61/2X2H702/334052
-#EXTINF:-1 group-title="AR | BEIN SPORT 4K" tvg-logo="http://go4.pw/BEIN/bs2eng.png" tvg-id="beinsports2en.qa" ,BEIN SPORTS 2 ENGLISH 4K²
-http://activefrance.net:80/W8MEP61/2X2H702/552083
-#EXTINF:-1 group-title="AR | BEIN SPORT 4K" tvg-logo="http://go4.pw/bein/bein-sports-french-1.png" tvg-id="beinsports1fr.qa" ,BEIN SPORTS FRENCH 1 4K+
-http://activefrance.net:80/W8MEP61/2X2H702/334054
-#EXTINF:-1 group-title="AR | BEIN SPORT 4K" tvg-logo="http://go4.pw/bein/bein-sports-french-1.png" tvg-id="beinsports1fr.qa" ,BEIN SPORTS 1 FRENCH 4K²
-http://activefrance.net:80/W8MEP61/2X2H702/552084
-#EXTINF:-1 group-title="AR | BEIN SPORT 4K" tvg-logo="http://go4.pw/bein/bein-sports-french-2.png" tvg-id="beinsports2fr.qa" ,BEIN SPORTS FRENCH 2 4K+
-http://activefrance.net:80/W8MEP61/2X2H702/334055
-#EXTINF:-1 group-title="AR | BEIN SPORT 4K" tvg-logo="http://go4.pw/bein/bein-sports-french-2.png" tvg-id="beinsports2fr.qa" ,BEIN SPORTS 2 FRENCH 4K²
-http://activefrance.net:80/W8MEP61/2X2H702/552085
-#EXTINF:-1 group-title="AR | BEIN SPORT 4K" tvg-logo="http://go4.pw/BEIN/bsnba.png" tvg-id="beinsportsnba.qa" ,BEIN SPORTS NBA 4K²
-http://activefrance.net:80/W8MEP61/2X2H702/552087
-#EXTINF:-1 group-title="AR | BEIN SPORT 4K" tvg-logo="http://go4.pw/BEIN/bss4k.png" ,##### BEIN SPORTS UHD #####
-http://activefrance.net:80/W8MEP61/2X2H702/27903
-#EXTINF:-1 group-title="AR | BEIN SPORT 4K" tvg-logo="http://go4.pw/BEIN/4kkkk.png" tvg-id="beinsportsglobal.qa" ,BEIN SPORTS GLOBAL UHD
-http://activefrance.net:80/W8MEP61/2X2H702/333931
-#EXTINF:-1 group-title="AR | BEIN SPORT 4K" tvg-logo="http://go4.pw/BEIN/bsnews.png" ,BEIN SPORTS NEWS UHD
-http://activefrance.net:80/W8MEP61/2X2H702/333932
-#EXTINF:-1 group-title="AR | BEIN SPORT 4K" tvg-logo="http://go4.pw/BEIN/bs4k.png" tvg-id="beinsports1.qa" ,BEIN SPORTS 1 UHD
-http://activefrance.net:80/W8MEP61/2X2H702/149613
-#EXTINF:-1 group-title="AR | BEIN SPORT 4K" tvg-logo="http://go4.pw/BEIN/bs4k.png" tvg-id="beinsports2.qa" ,BEIN SPORTS 2 UHD
-http://activefrance.net:80/W8MEP61/2X2H702/149614
-#EXTINF:-1 group-title="AR | BEIN SPORT 4K" tvg-logo="http://go4.pw/BEIN/bs4k.png" tvg-id="beinsports3.qa" ,BEIN SPORTS 3 UHD
-http://activefrance.net:80/W8MEP61/2X2H702/149615
-#EXTINF:-1 group-title="AR | BEIN SPORT 4K" tvg-logo="http://go4.pw/BEIN/bs4k.png" tvg-id="beinsports4.qa" ,BEIN SPORTS 4 UHD
-http://activefrance.net:80/W8MEP61/2X2H702/149616
-#EXTINF:-1 group-title="AR | BEIN SPORT 4K" tvg-logo="http://go4.pw/BEIN/bs4k.png" tvg-id="beinsports5.qa" ,BEIN SPORTS 5 UHD
-http://activefrance.net:80/W8MEP61/2X2H702/149617
-#EXTINF:-1 group-title="AR | BEIN SPORT 4K" tvg-logo="http://go4.pw/BEIN/bs4k.png" tvg-id="beinsports6.qa" ,BEIN SPORTS 6 UHD
-http://activefrance.net:80/W8MEP61/2X2H702/149618
-#EXTINF:-1 group-title="AR | BEIN SPORT 4K" tvg-logo="http://go4.pw/BEIN/bs4k.png" tvg-id="beinsports7.qa" ,BEIN SPORTS 7 UHD
-http://activefrance.net:80/W8MEP61/2X2H702/149619
-#EXTINF:-1 group-title="AR | BEIN SPORT 4K" tvg-logo="http://go4.pw/BEIN/bs4k.png" tvg-id="beinsports8.qa" ,BEIN SPORTS 8 UHD
-http://activefrance.net:80/W8MEP61/2X2H702/418586
-#EXTINF:-1 group-title="AR | BEIN SPORT 4K" tvg-logo="http://go4.pw/BEIN/bs4k.png" tvg-id="beinsports9.qa" ,BEIN SPORTS 9 UHD
-http://activefrance.net:80/W8MEP61/2X2H702/418590
-#EXTINF:-1 group-title="AR | BEIN SPORT 4K" tvg-logo="http://go4.pw/bein/bein-sports-xtra-1.png" tvg-id="beinsportsxtra1.qa" ,BEIN SPORTS XTRA 1 UHD
-http://activefrance.net:80/W8MEP61/2X2H702/334057
-#EXTINF:-1 group-title="AR | BEIN SPORT 4K" tvg-logo="http://go4.pw/BEIN/beinsportsxtra2.png" tvg-id="beinsportsxtra2.qa" ,BEIN SPORTS XTRA 2 UHD
-http://activefrance.net:80/W8MEP61/2X2H702/334040
-#EXTINF:-1 group-title="AR | BEIN SPORT 4K" tvg-logo="http://go4.pw/bein/bein-sports-extra-3.png" tvg-id="beinsportsxtra3.qa" ,BEIN SPORTS XTRA 3 UHD
-http://activefrance.net:80/W8MEP61/2X2H702/418514
-#EXTINF:-1 group-title="AR | BEIN SPORT 4K" tvg-logo="http://go4.pw/BEIN/bein.afc/bein.afc1.png" ,BEIN SPORTS AFC 1 UHD
-http://activefrance.net:80/W8MEP61/2X2H702/331737
-#EXTINF:-1 group-title="AR | BEIN SPORT 4K" tvg-logo="http://go4.pw/BEIN/bein.afc/bein.afc2.png" ,BEIN SPORTS AFC 2 UHD
-http://activefrance.net:80/W8MEP61/2X2H702/331738
-#EXTINF:-1 group-title="AR | BEIN SPORT 4K" tvg-logo="http://go4.pw/BEIN/bein.afc/bein.afc3.png" ,BEIN SPORTS AFC 3 UHD
-http://activefrance.net:80/W8MEP61/2X2H702/331739
-#EXTINF:-1 group-title="AR | BEIN SPORT 4K" tvg-logo="http://go4.pw/BEIN/bs1eng.png" tvg-id="beinsports1en.qa" ,BEIN SPORTS 1 ENGLISH UHD
-http://activefrance.net:80/W8MEP61/2X2H702/149622
-#EXTINF:-1 group-title="AR | BEIN SPORT 4K" tvg-logo="http://go4.pw/BEIN/bs2eng.png" tvg-id="beinsports2en.qa" ,BEIN SPORTS 2 ENGLISH UHD
-http://activefrance.net:80/W8MEP61/2X2H702/149623
-#EXTINF:-1 group-title="AR | BEIN SPORT 4K" tvg-logo="http://go4.pw/bein/bein-sports-french-1.png" tvg-id="beinsports1fr.qa" ,BEIN SPORTS 1 FRENCH UHD
-http://activefrance.net:80/W8MEP61/2X2H702/149625
-#EXTINF:-1 group-title="AR | BEIN SPORT 4K" tvg-logo="http://go4.pw/bein/bein-sports-french-2.png" tvg-id="beinsports2fr.qa" ,BEIN SPORTS 2 FRENCH UHD
-http://activefrance.net:80/W8MEP61/2X2H702/211673
-#EXTINF:-1 group-title="AR | BEIN SPORT 4K" tvg-logo="http://go4.pw/BEIN/bsnba.png" tvg-id="aljazeeradocumentary.qa" ,BEIN SPORTS NBA UHD
-http://activefrance.net:80/W8MEP61/2X2H702/271226
-#EXTINF:-1 group-title="AR | ABU DHABI SPORTS" tvg-logo="http://go4.pw/ASIA/UAE/abudabi.png" tvg-id="adsportsasia1.ae" ,AD SPORTS ASIA 1 FHD
-http://activefrance.net:80/W8MEP61/2X2H702/583899
-#EXTINF:-1 group-title="AR | ABU DHABI SPORTS" tvg-logo="http://go4.pw/ASIA/UAE/abudabi.png" tvg-id="adsportsasia2.ae" ,AD SPORTS ASIA 2 FHD
-http://activefrance.net:80/W8MEP61/2X2H702/583901
-#EXTINF:-1 group-title="AR | ABU DHABI SPORTS" tvg-logo="http://go4.pw/ABUDABISPORT/ABUDHABISPORTS1.png" tvg-id="abudhabisports1.ae" ,ABU DHABI SPORTS 1 HD
-http://activefrance.net:80/W8MEP61/2X2H702/22039
-#EXTINF:-1 group-title="AR | ABU DHABI SPORTS" tvg-logo="http://go4.pw/ABUDABISPORT/ABUDHABISPORTS2.png" tvg-id="abudhabi.ae" ,ABU DHABI SPORT 2 HD
-http://activefrance.net:80/W8MEP61/2X2H702/755
-#EXTINF:-1 group-title="AR | ABU DHABI SPORTS" tvg-logo="http://go4.pw/ASIA/UAE/YASSPORTHD.png" tvg-id="yassports.ae" , YAS SPORT HD
-http://activefrance.net:80/W8MEP61/2X2H702/754
-#EXTINF:-1 group-title="AR | ABU DHABI SPORTS" tvg-logo="http://go4.pw/ASIA/UAE/YAS-TV-.png" ,YAS TV HD
-http://activefrance.net:80/W8MEP61/2X2H702/161433
-#EXTINF:-1 group-title="AR | ABU DHABI SPORTS" tvg-logo="http://go4.pw/ASIA/UAE/abudabi.png" tvg-id="adsportsasia1.ae" ,AD SPORTS ASIA 1 HD
-http://activefrance.net:80/W8MEP61/2X2H702/583886
-#EXTINF:-1 group-title="AR | ABU DHABI SPORTS" tvg-logo="http://go4.pw/ASIA/UAE/abudabi.png" tvg-id="adsportsasia2.ae" ,AD SPORTS ASIA 2 HD
-http://activefrance.net:80/W8MEP61/2X2H702/583887
-#EXTINF:-1 group-title="AR | ABU DHABI SPORTS" tvg-logo="http://go4.pw/ASIA/UAE/abudabi.png" tvg-id="adsportsasia1.ae" ,AD SPORTS ASIA 1 SD
-http://activefrance.net:80/W8MEP61/2X2H702/583807
-#EXTINF:-1 group-title="AR | ABU DHABI SPORTS" tvg-logo="http://go4.pw/ASIA/UAE/abudabi.png" tvg-id="adsportsasia2.ae" ,AD SPORTS ASIA 2 SD
-http://activefrance.net:80/W8MEP61/2X2H702/583808
-#EXTINF:-1 group-title="AR | ABU DHABI SPORTS" tvg-logo="http://go4.pw/ASIA/UAE/adsp.png" ,AR - AD SPORT PREMIUM 2 4K
-http://activefrance.net:80/W8MEP61/2X2H702/992042
-#EXTINF:-1 group-title="AR | ABU DHABI SPORTS" tvg-logo="http://go4.pw/ASIA/UAE/adsp.png" ,AR - AD SPORT PREMIUM 1 4K
-http://activefrance.net:80/W8MEP61/2X2H702/992043
+#EXTINF:-1 group-title="BEIN SPORTS" ,Bein Sport SD1
+http://starshare.live:8080/04494/04494/274214
+#EXTINF:-1 group-title="BEIN SPORTS" ,Bein Sport SD2
+http://starshare.live:8080/04494/04494/274215
+#EXTINF:-1 group-title="BEIN SPORTS" ,Bein Sport SD3
+http://starshare.live:8080/04494/04494/274216
+#EXTINF:-1 group-title="BEIN SPORTS" ,Bein Sport SD4
+http://starshare.live:8080/04494/04494/274217
+#EXTINF:-1 group-title="BEIN SPORTS" ,Bein Sport SD5
+http://starshare.live:8080/04494/04494/274218
+#EXTINF:-1 group-title="BEIN SPORTS" ,Bein Sport SD6
+http://starshare.live:8080/04494/04494/274219
+#EXTINF:-1 group-title="BEIN SPORTS" ,Bein Sport SD7
+http://starshare.live:8080/04494/04494/274220
+#EXTINF:-1 group-title="BEIN SPORTS" ,Bein Sport SD8
+http://starshare.live:8080/04494/04494/274221
+#EXTINF:-1 group-title="BEIN SPORTS" ,Bein Sport SD9
+http://starshare.live:8080/04494/04494/274222
+#EXTINF:-1 group-title="BEIN SPORTS" ,Bein Xtra SD1
+http://starshare.live:8080/04494/04494/274223
+#EXTINF:-1 group-title="BEIN SPORTS" ,Bein Xtra SD2
+http://starshare.live:8080/04494/04494/274224
+#EXTINF:-1 group-title="BEIN SPORTS" ,Bein Xtra SD3
+http://starshare.live:8080/04494/04494/274225
+#EXTINF:-1 group-title="BEIN SPORTS" ,Bein Sport AFC SD
+http://starshare.live:8080/04494/04494/274226
+#EXTINF:-1 group-title="BEIN SPORTS" ,Bein Sport AFC 1 SD
+http://starshare.live:8080/04494/04494/274227
+#EXTINF:-1 group-title="BEIN SPORTS" ,Bein Sport AFC 2 SD
+http://starshare.live:8080/04494/04494/274228
+#EXTINF:-1 group-title="BEIN SPORTS" ,Bein Sport AFC 3 SD
+http://starshare.live:8080/04494/04494/274229
+#EXTINF:-1 group-title="BEIN SPORTS" ,Bein Sport AFC 4 SD
+http://starshare.live:8080/04494/04494/274230
+#EXTINF:-1 group-title="BEIN SPORTS" ,Bein Sport AFC 5 SD
+http://starshare.live:8080/04494/04494/274231
 
-#EXTINF:-1,beIN Sport HD1
-http://bdd78.4rouwanda-shop.store/live/918454578001/index.m3u8?t=f_fPdAJsxSHbhApALUGEKg&e=1730233175
+#EXTINF:-1 group-title="BEIN SPORTS" ,Bein Sport News HD
+http://starshare.live:8080/04494/04494/274161
+#EXTINF:-1 group-title="BEIN SPORTS" ,Bein Sports HD1 1080
+http://starshare.live:8080/04494/04494/274162
+#EXTINF:-1 group-title="BEIN SPORTS" ,Bein Sports HD2 1080
+http://starshare.live:8080/04494/04494/274163
+#EXTINF:-1 group-title="BEIN SPORTS" ,Bein Sports HD3 1080
+http://starshare.live:8080/04494/04494/274164
+#EXTINF:-1 group-title="BEIN SPORTS" ,Bein Sports HD4 1080
+http://starshare.live:8080/04494/04494/274165
+#EXTINF:-1 group-title="BEIN SPORTS" ,Bein Sports HD5 1080
+http://starshare.live:8080/04494/04494/274166
+#EXTINF:-1 group-title="BEIN SPORTS" ,Bein Sports HD6 1080
+http://starshare.live:8080/04494/04494/274167
+#EXTINF:-1 group-title="BEIN SPORTS" ,Bein Sports HD7 1080
+http://starshare.live:8080/04494/04494/274168
+#EXTINF:-1 group-title="BEIN SPORTS" ,Bein Sports HD8 1080
+http://starshare.live:8080/04494/04494/274169
+#EXTINF:-1 group-title="BEIN SPORTS" ,Bein Sports HD9 1080
+http://starshare.live:8080/04494/04494/274170
+#EXTINF:-1 group-title="BEIN SPORTS" ,Bein Xtra HD3 1080
+http://starshare.live:8080/04494/04494/274171
 
-#EXTINF:-1,beIN Spprt HD2
-http://bdd78.4rouwanda-shop.store/live/10011244/index.m3u8?t=5bmwhZjb18KKzcL_d6PCwA&e=1730233495
+#EXTINF:-1 group-title="BEIN SPORTS" ,Bein Sport HD1 720
+http://starshare.live:8080/04494/04494/274176
+#EXTINF:-1 group-title="BEIN SPORTS" ,Bein Sport HD2 720
+http://starshare.live:8080/04494/04494/274177
+#EXTINF:-1 group-title="BEIN SPORTS" ,Bein Sport HD3 720
+http://starshare.live:8080/04494/04494/274178
+#EXTINF:-1 group-title="BEIN SPORTS" ,Bein Sport HD4 720
+http://starshare.live:8080/04494/04494/274179
+#EXTINF:-1 group-title="BEIN SPORTS" ,Bein Sport HD5 720
+http://starshare.live:8080/04494/04494/274180
+#EXTINF:-1 group-title="BEIN SPORTS" ,Bein Sport HD6 720
+http://starshare.live:8080/04494/04494/274181
+#EXTINF:-1 group-title="BEIN SPORTS" ,Bein Sport HD7 720
+http://starshare.live:8080/04494/04494/274182
+#EXTINF:-1 group-title="BEIN SPORTS" ,Bein Sport HD8 720
+http://starshare.live:8080/04494/04494/274183
+#EXTINF:-1 group-title="BEIN SPORTS" ,Bein Sport HD9 720
+http://starshare.live:8080/04494/04494/274184
+#EXTINF:-1 group-title="BEIN SPORTS" ,Bein Xtra HD1 720
+http://starshare.live:8080/04494/04494/274185
+#EXTINF:-1 group-title="BEIN SPORTS" ,Bein Xtra HD2 720
+http://starshare.live:8080/04494/04494/274186
+#EXTINF:-1 group-title="BEIN SPORTS" ,Bein Xtra HD3 720
+http://starshare.live:8080/04494/04494/274187
+#EXTINF:-1 group-title="BEIN SPORTS" ,Bein Sport AFC HD
+http://starshare.live:8080/04494/04494/274188
+#EXTINF:-1 group-title="BEIN SPORTS" ,Bein Sport AFC 1 HD
+http://starshare.live:8080/04494/04494/274189
+#EXTINF:-1 group-title="BEIN SPORTS" ,Bein Sport AFC 2 HD
+http://starshare.live:8080/04494/04494/274190
+#EXTINF:-1 group-title="BEIN SPORTS" ,Bein Sport AFC 3 HD
+http://starshare.live:8080/04494/04494/274191
+#EXTINF:-1 group-title="BEIN SPORTS" ,Bein Sport AFC 4 HD
+http://starshare.live:8080/04494/04494/274192
+#EXTINF:-1 group-title="BEIN SPORTS" ,Bein Sport AFC 5 HD
+http://starshare.live:8080/04494/04494/274193
+#EXTINF:-1 group-title="BEIN SPORTS" ,Bein Sport NBA HD
+http://starshare.live:8080/04494/04494/274198
 
-#EXTINF:-1 tvg-logo="https://i.suar.me/9PEKx/l", ALKASS HD1 SHABAKATY
-http://stream.shabakaty.com:6016/sport/ch15/ch15_720.m3u8
+#EXTINF:-1 group-title="BEIN SPORTS" ,beIN SPORTS 4K 1
+http://starshare.live:8080/04494/04494/274122
+#EXTINF:-1 group-title="BEIN SPORTS" ,beIN SPORTS 4K 2
+http://starshare.live:8080/04494/04494/274123
+#EXTINF:-1 group-title="BEIN SPORTS" ,beIN SPORTS 4K 3
+http://starshare.live:8080/04494/04494/274124
+#EXTINF:-1 group-title="BEIN SPORTS" ,beIN SPORTS 4K 4
+http://starshare.live:8080/04494/04494/274125
+#EXTINF:-1 group-title="BEIN SPORTS" ,beIN SPORTS 4K 5
+http://starshare.live:8080/04494/04494/274126
+#EXTINF:-1 group-title="BEIN SPORTS" ,beIN SPORTS 4K 6
+http://starshare.live:8080/04494/04494/274127
+#EXTINF:-1 group-title="BEIN SPORTS" ,beIN SPORTS 4K 7
+http://starshare.live:8080/04494/04494/274128
+#EXTINF:-1 group-title="BEIN SPORTS" ,beIN Sports 4K 8
+http://starshare.live:8080/04494/04494/274129
+#EXTINF:-1 group-title="BEIN SPORTS" ,beIN SPORTS 4K 9
+http://starshare.live:8080/04494/04494/274130
+#EXTINF:-1 group-title="BEIN SPORTS" ,Bein Xtra 4K 1
+http://starshare.live:8080/04494/04494/274131
+#EXTINF:-1 group-title="BEIN SPORTS" ,Bein Xtra 4K 2
+http://starshare.live:8080/04494/04494/274132
+#EXTINF:-1 group-title="BEIN SPORTS" ,beIN Xtra 4K 3
+http://starshare.live:8080/04494/04494/274133
+#EXTINF:-1 group-title="BEIN SPORTS" ,Bein Sport AFC 4K
+http://starshare.live:8080/04494/04494/274134
+#EXTINF:-1 group-title="BEIN SPORTS" ,Bein Sport AFC 1 4K
+http://starshare.live:8080/04494/04494/274135
+#EXTINF:-1 group-title="BEIN SPORTS" ,Bein Sport AFC 2 4K
+http://starshare.live:8080/04494/04494/274136
+#EXTINF:-1 group-title="BEIN SPORTS" ,Bein Sport AFC 3 4K
+http://starshare.live:8080/04494/04494/274137
+#EXTINF:-1 group-title="BEIN SPORTS" ,Bein Sport AFC 4 4K
+http://starshare.live:8080/04494/04494/274138
+#EXTINF:-1 group-title="BEIN SPORTS" ,Bein Sport AFC 5 4K
+http://starshare.live:8080/04494/04494/274139
+
+#EXTINF:-1 group-title="BEIN SPORTS" ,Bein Sport NBA 4K
+http://starshare.live:8080/04494/04494/274144
 
 
-#EXTINF:-1 tvg-logo="https://i.suar.me/9PEKx/l", ALKASS HD2 SHABAKATY
-http://stream.shabakaty.com:6017/sport/ch16/ch16_720.m3u8
+#EXTINF:-1 group-title="BEIN SPORTS" ,BeIN Alkass 1 HD
+http://starshare.live:8080/04494/04494/274236
+#EXTINF:-1 group-title="BEIN SPORTS" ,BeIN Alkass 2 HD
+http://starshare.live:8080/04494/04494/274237
+#EXTINF:-1 group-title="BEIN SPORTS" ,BeIN Alkass 3 HD
+http://starshare.live:8080/04494/04494/274238
+#EXTINF:-1 group-title="BEIN SPORTS" ,BeIN Alkass 4 HD
+http://starshare.live:8080/04494/04494/274239
+#EXTINF:-1 group-title="BEIN SPORTS" ,BeIN Alkass 5 HD
+http://starshare.live:8080/04494/04494/274240
 
+#EXTINF:-1 group-title="ARABIC SPORTS" ,AR:  Dubai Racing HD
+http://starshare.live:8080/04494/04494/902
+#EXTINF:-1 group-title="ARABIC SPORTS" ,AR:  ON Time Sports HD+
+http://starshare.live:8080/04494/04494/4598
+#EXTINF:-1 group-title="ARABIC SPORTS" ,AR:  ON Time Sports HD+
+http://starshare.live:8080/04494/04494/4620
+#EXTINF:-1 group-title="ARABIC SPORTS" ,AR:  Dubai Racing 1 HD
+http://starshare.live:8080/04494/04494/4623
+#EXTINF:-1 group-title="ARABIC SPORTS" ,AR:  Dubai Racing 2 HD
+http://starshare.live:8080/04494/04494/4624
+#EXTINF:-1 group-title="ARABIC SPORTS" ,AR:  Dubai Racing 3 HD
+http://starshare.live:8080/04494/04494/4625
+#EXTINF:-1 group-title="ARABIC SPORTS" ,AR:  Libya Sports  2HD
+http://starshare.live:8080/04494/04494/4637
+#EXTINF:-1 group-title="ARABIC SPORTS" ,AR:  Libya Sport Channel
+http://starshare.live:8080/04494/04494/4640
+#EXTINF:-1 group-title="ARABIC SPORTS" ,AR:  Dubai Sport 1 HD
+http://starshare.live:8080/04494/04494/4651
+#EXTINF:-1 group-title="ARABIC SPORTS" ,AR:  Dubai Sport 2 HD
+http://starshare.live:8080/04494/04494/4652
+#EXTINF:-1 group-title="ARABIC SPORTS" ,AR:  Dubai Sport 3 HD
+http://starshare.live:8080/04494/04494/4653
+#EXTINF:-1 group-title="ARABIC SPORTS" ,AR:  KSA Sport 1 HD+
+http://starshare.live:8080/04494/04494/4654
+#EXTINF:-1 group-title="ARABIC SPORTS" ,AR:  KSA Sport 2 HD+
+http://starshare.live:8080/04494/04494/4655
+#EXTINF:-1 group-title="ARABIC SPORTS" ,AR:  KSA Sport 3 HD+
+http://starshare.live:8080/04494/04494/4656
+#EXTINF:-1 group-title="ARABIC SPORTS" ,AR: Bahrain_Sport_1_HD
+http://starshare.live:8080/04494/04494/30105
+#EXTINF:-1 group-title="ARABIC SPORTS" ,AR: Bahrain_Sport_2_HD
+http://starshare.live:8080/04494/04494/30106
+#EXTINF:-1 group-title="ARABIC SPORTS" ,AR: ALKASS ONE HD
+http://starshare.live:8080/04494/04494/30109
+#EXTINF:-1 group-title="ARABIC SPORTS" ,AR: ALKASS TWO HD
+http://starshare.live:8080/04494/04494/30110
+#EXTINF:-1 group-title="ARABIC SPORTS" ,AR: ALKASS FOUR HD
+http://starshare.live:8080/04494/04494/30111
+#EXTINF:-1 group-title="ARABIC SPORTS" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/SPORT-INT/SSCHD.png" ,SSC 1 HD
+http://starshare.live:8080/04494/04494/36251
+#EXTINF:-1 group-title="ARABIC SPORTS" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/SPORT-INT/SSCHD.png" ,SSC 2 HD
+http://starshare.live:8080/04494/04494/36252
+#EXTINF:-1 group-title="ARABIC SPORTS" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/SPORT-INT/SSCHD.png" ,SSC 3 HD
+http://starshare.live:8080/04494/04494/36253
+#EXTINF:-1 group-title="ARABIC SPORTS" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/SPORT-INT/SSCHD.png" ,SSC 4 HD
+http://starshare.live:8080/04494/04494/36254
+#EXTINF:-1 group-title="ARABIC SPORTS" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/SPORT-INT/SSCHD.png" ,SSC 5 HD
+http://starshare.live:8080/04494/04494/36255
 
-#EXTINF:-1 tvg-logo="https://i.suar.me/9PEKx/l", ALKASS HD1
-https://liveakgr.alkassdigital.net:443/hls/live/2097037/Alkass1buo/master540.m3u8
+#EXTINF:-1 group-title="ARABIC SPORTS" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/SPORT-INT/SSCHD.png" ,|Shahid| SSC NEWS
+http://starshare.live:8080/04494/04494/123087
+#EXTINF:-1 group-title="ARABIC SPORTS" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/SPORT-INT/SSCHD.png" ,|Shahid| SSC 1 HD
+http://starshare.live:8080/04494/04494/123089
+#EXTINF:-1 group-title="ARABIC SPORTS" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/SPORT-INT/SSCHD.png" ,|Shahid| SSC 1 HD 1080P
+http://starshare.live:8080/04494/04494/123090
+#EXTINF:-1 group-title="ARABIC SPORTS" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/SPORT-INT/SSCHD.png" ,|Shahid| SSC 2 HD
+http://starshare.live:8080/04494/04494/123091
+#EXTINF:-1 group-title="ARABIC SPORTS" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/SPORT-INT/SSCHD.png" ,|Shahid| SSC 2 HD 1080P
+http://starshare.live:8080/04494/04494/123092
+#EXTINF:-1 group-title="ARABIC SPORTS" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/SPORT-INT/SSCHD.png" ,|Shahid| SSC 3 HD
+http://starshare.live:8080/04494/04494/123093
+#EXTINF:-1 group-title="ARABIC SPORTS" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/SPORT-INT/SSCHD.png" ,|Shahid| SSC 3 HD 1080P
+http://starshare.live:8080/04494/04494/123094
+#EXTINF:-1 group-title="ARABIC SPORTS" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/SPORT-INT/SSCHD.png" ,|Shahid| SSC 4 HD
+http://starshare.live:8080/04494/04494/123095
+#EXTINF:-1 group-title="ARABIC SPORTS" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/SPORT-INT/SSCHD.png" ,|Shahid| SSC 4 HD 1080P
+http://starshare.live:8080/04494/04494/123096
+#EXTINF:-1 group-title="ARABIC SPORTS" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/SPORT-INT/SSCHD.png" ,|Shahid| SSC 5 HD
+http://starshare.live:8080/04494/04494/123097
+#EXTINF:-1 group-title="ARABIC SPORTS" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/SPORT-INT/SSCHD.png" ,|Shahid| SSC 5 HD 1080P
+http://starshare.live:8080/04494/04494/123098
+#EXTINF:-1 group-title="ARABIC SPORTS" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/SPORT-INT/SSCHD.png" ,|Shahid| SSC 1 EXTRA HD
+http://starshare.live:8080/04494/04494/123099
+#EXTINF:-1 group-title="ARABIC SPORTS" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/SPORT-INT/SSCHD.png" ,|Shahid| SSC 1 EXTRA HD 1080P
+http://starshare.live:8080/04494/04494/123100
+#EXTINF:-1 group-title="ARABIC SPORTS" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/SPORT-INT/SSCHD.png" ,|Shahid| SSC 2 EXTRA HD
+http://starshare.live:8080/04494/04494/123101
+#EXTINF:-1 group-title="ARABIC SPORTS" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/SPORT-INT/SSCHD.png" ,|Shahid| SSC 2 EXTRA HD 1080P
+http://starshare.live:8080/04494/04494/123102
+#EXTINF:-1 group-title="ARABIC SPORTS" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/SPORT-INT/SSCHD.png" ,|Shahid| SSC 3 EXTRA HD
+http://starshare.live:8080/04494/04494/123103
+#EXTINF:-1 group-title="ARABIC SPORTS" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/SPORT-INT/SSCHD.png" ,|Shahid| SSC 3 EXTRA HD 1080P
+http://starshare.live:8080/04494/04494/123104
 
+#EXTINF:-1 group-title="ARABIC SPORTS" ,Sport | Ar: On Time Sport HD 1
+http://starshare.live:8080/04494/04494/309014
+#EXTINF:-1 group-title="ARABIC SPORTS" ,Sport | Ar: On Time Sport HD 2
+http://starshare.live:8080/04494/04494/309015
+#EXTINF:-1 group-title="ARABIC SPORTS" ,Sport | Ar: Dubai Racing 1 HD
+http://starshare.live:8080/04494/04494/309016
+#EXTINF:-1 group-title="ARABIC SPORTS" ,Sport | Ar: Dubai Racing 2 HD
+http://starshare.live:8080/04494/04494/309017
+#EXTINF:-1 group-title="ARABIC SPORTS" ,Sport | Ar: Dubai Racing 3 HD
+http://starshare.live:8080/04494/04494/309018
 
-#EXTINF:-1 tvg-logo="https://i.suar.me/9PEKx/l", ALKASS HD2
-https://liveakgr.alkassdigital.net:443/hls/live/2097037/Alkass2hef/master540.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.suar.me/9PEKx/l", ALKASS HD3
-https://liveakgr.alkassdigital.net:443/hls/live/2097037/Alkass3vak/master540.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.suar.me/9PEKx/l", ALKASS HD4
-https://liveakgr.alkassdigital.net:443/hls/live/2097037/Alkass4cn/master450.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.suar.me/9PEKx/l", ALKASS ONLINE
-https://liveakgr.alkassdigital.net:443/hls/live/2097037/Alkass6Shoof/master540.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.suar.me/Y3WwV/l", AD Sport HD1
-https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.suar.me/Y3WwV/l", AD Sport HD2
-https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
-
-
-#EXTINF:-1,AD Sport SD1
-http://stream.mytvplus.net:7012/sport/ch11/ch11_360.m3u8
-
-
-#EXTINF:-1,AD Sport SD2
-http://stream.mytvplus.net:7013/sport/ch12/ch12_360.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.suar.me/z4BQl/l", Dubai Sport HD1
-https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.suar.me/z4BQl/l", Dubai Sport HD2
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.suar.me/z4BQl/l", Dubai Sport HD3
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.suar.me/ZrYV2/l", Sharjah Sport HD
-https://svs.itworkscdn.net/smc4sportslive/smc4tv.smil/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.suar.me/GjWKZ/l", Oman Sport HD
-https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.suar.me/KoN1n/l", Iraqia Sport HD
-https://stream.veo.buzz:6050/sport/ch13/adaptive.m3u8
-
-#EXTM3U
-#EXTINF:-1 group-title="BEIN SPORTS Ⓖ" tvg-logo="http://vodkom.com:25461/Logo/BEIN/news.png" ,BEIN SPORTS NEWS
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/45
-#EXTINF:-1 group-title="BEIN SPORTS Ⓖ" tvg-logo="http://vodkom.com:25461/Logo/BEIN/beIN_Global.png" ,BEIN SPORTS HD
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/46
-#EXTINF:-1 group-title="BEIN SPORTS Ⓖ" tvg-logo="http://vodkom.com:25461/Logo/BEIN/1-fhd.png" ,beIN SPORTS 1 SD (G)
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/47
-#EXTINF:-1 group-title="BEIN SPORTS Ⓖ" ,beIN SPORTS 1 HD (G)
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/13210
-#EXTINF:-1 group-title="BEIN SPORTS Ⓖ" tvg-logo="http://vodkom.com:25461/Logo/BEIN/2-fhd.png" ,beIN SPORTS 2 SD (G)
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/48
-#EXTINF:-1 group-title="BEIN SPORTS Ⓖ" ,beIN SPORTS 2 HD (G)
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/13211
-#EXTINF:-1 group-title="BEIN SPORTS Ⓖ" tvg-logo="http://vodkom.com:25461/Logo/BEIN/3-fhd.png" ,beIN SPORTS 3 SD (G)
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/49
-#EXTINF:-1 group-title="BEIN SPORTS Ⓖ" ,beIN SPORTS 3 HD (G)
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/13212
-#EXTINF:-1 group-title="BEIN SPORTS Ⓖ" tvg-logo="http://vodkom.com:25461/Logo/BEIN/1-hd.png" ,beIN SPORTS 4 SD (G)
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/50
-#EXTINF:-1 group-title="BEIN SPORTS Ⓖ" ,beIN SPORTS 4 HD (G)
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/13213
-#EXTINF:-1 group-title="BEIN SPORTS Ⓖ" tvg-logo="http://vodkom.com:25461/Logo/BEIN/2-hd.png" ,beIN SPORTS 5 SD (G)
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/51
-#EXTINF:-1 group-title="BEIN SPORTS Ⓖ" tvg-logo="http://win4k.xyz:80/images/73d4391f2c9d936ef831f97813aa531c.png" ,AR | BEIN SPORTS G 5 HD
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/13316
-#EXTINF:-1 group-title="BEIN SPORTS Ⓖ" tvg-logo="http://vodkom.com:25461/Logo/BEIN/3-hd.png" ,beIN SPORTS 6 SD (G)
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/52
-#EXTINF:-1 group-title="BEIN SPORTS Ⓖ" tvg-logo="http://win4k.xyz:80/images/1b139a4496d4888a4cda0889f88ec2cf.png" ,AR | BEIN SPORTS G 6 HD
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/13317
-#EXTINF:-1 group-title="BEIN SPORTS Ⓖ" tvg-logo="http://vodkom.com:25461/Logo/BEIN/4-hd.png" ,beIN SPORTS 7 SD (G)
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/53
-#EXTINF:-1 group-title="BEIN SPORTS Ⓖ" tvg-logo="http://win4k.xyz:80/images/36d3dbd2d708fdc0244dd61460cf41fb.png" ,AR | BEIN SPORTS G 7 HD
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/13318
-#EXTINF:-1 group-title="BEIN SPORTS Ⓖ" tvg-logo="http://vodkom.com:25461/Logo/BEIN/8-hd.png" ,beIN SPORTS 8 SD (G)
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/54
-#EXTINF:-1 group-title="BEIN SPORTS Ⓖ" tvg-logo="http://win4k.xyz:80/images/cf3752b6febd1b0d309e61d3aa1dfb0b.png" ,AR | BEIN SPORTS G 8 HD
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/13319
-#EXTINF:-1 group-title="BEIN SPORTS Ⓖ" tvg-logo="http://vodkom.com:25461/Logo/BEIN/9-hd.png" ,beIN SPORTS 9 SD (G)
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/55
-#EXTINF:-1 group-title="BEIN SPORTS Ⓖ" tvg-logo="http://win4k.xyz:80/images/8995cf1cca2d5667c611e3784bd2cdcd.png" ,AR | BEIN SPORTS G 9 HD
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/13320
-#EXTINF:-1 group-title="BEIN SPORTS Ⓖ" tvg-logo="http://vodkom.com:25461/Logo/BEIN/eng-1-HD.png" ,BEIN SPORTS 1 ENGLISH
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/56
-#EXTINF:-1 group-title="BEIN SPORTS Ⓖ" tvg-logo="http://vodkom.com:25461/Logo/BEIN/xtra1-HD.png" ,BEIN SPORTS XTRA 1 HD
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/57
-#EXTINF:-1 group-title="BEIN SPORTS Ⓖ" tvg-logo="http://vodkom.com:25461/Logo/BEIN/xtra2-HD.png" ,BEIN SPORTS XTRA 2 HD
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/58
-#EXTINF:-1 group-title="BEIN SPORTS Ⓖ" tvg-logo="http://vodkom.com:25461/Logo/BEIN/" ,BEIN SPORTS XTRA 3
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/59
-#EXTINF:-1 group-title="BEIN SPORTS Ⓖ" ,Bein Sport AFC 1
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/13070
-#EXTINF:-1 group-title="BEIN SPORTS Ⓖ" ,Bein Sport AFC 2
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/13071
-#EXTINF:-1 group-title="BEIN SPORT MINI" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" ,beIN SPORTS 1 MINI
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/17
-#EXTINF:-1 group-title="BEIN SPORT MINI" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png" ,beIN SPORTS 2 MINI
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/18
-#EXTINF:-1 group-title="BEIN SPORT MINI" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" ,beIN SPORTS 3 MINI
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/20
-#EXTINF:-1 group-title="BEIN SPORT MINI" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" ,beIN SPORTS 4 MINI
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/21
-#EXTINF:-1 group-title="BEIN SPORT MINI" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS5_DIGITAL_Mono.png" ,beIN SPORTS 5 MINI
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/22
-#EXTINF:-1 group-title="BEIN SPORT MINI" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS6_DIGITAL_Mono.png" ,beIN SPORTS 6 MINI
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/23
-#EXTINF:-1 group-title="BEIN SPORT MINI" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS7_DIGITAL_Mono.png" ,beIN SPORTS 7 MINI
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/24
-#EXTINF:-1 group-title="BEIN SPORT MINI" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS8.png" ,beIN SPORTS 8 MINI
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/25
-#EXTINF:-1 group-title="BEIN SPORT MINI" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS9.png" ,beIN SPORTS 9 MINI
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/26
-#EXTINF:-1 group-title="BEIN SPORT MINI" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" ,beIN SPORTS 1 VEGA
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/27
-#EXTINF:-1 group-title="BEIN SPORT MINI" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png" ,beIN SPORTS 2 VEGA
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/28
-#EXTINF:-1 group-title="BEIN SPORT MINI" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" ,beIN SPORTS 3 VEGA
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/29
-#EXTINF:-1 group-title="BEIN SPORT MINI" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" ,beIN SPORTS 4 VEGA
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/30
-#EXTINF:-1 group-title="BEIN SPORT MINI" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS5_DIGITAL_Mono.png" ,beIN SPORTS 5 VEGA
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/31
-#EXTINF:-1 group-title="BEIN SPORT MINI" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS6_DIGITAL_Mono.png" ,beIN SPORTS 6 VEGA
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/32
-#EXTINF:-1 group-title="BEIN SPORT MINI" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS7_DIGITAL_Mono.png" ,beIN SPORTS 7 VEGA
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/33
-#EXTINF:-1 group-title="BEIN SPORT MINI" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS8.png" ,beIN SPORTS 8 VEGA
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/34
-#EXTINF:-1 group-title="BEIN SPORT MINI" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS9.png" ,beIN SPORTS 9 VEGA
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/35
-#EXTINF:-1 group-title="BEIN SPORT MINI" ,Al KASS 1 HD
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/6821
-#EXTINF:-1 group-title="BEIN SPORT MINI" ,Al KASS 2 HD
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/6822
-#EXTINF:-1 group-title="BEIN SPORT MINI" ,Al KASS 3 HD
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/6823
-#EXTINF:-1 group-title="BEIN SPORT MINI" ,Al KASS 4 HD
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/6824
-#EXTINF:-1 group-title="BEIN SPORT MINI" tvg-logo="http://iptv-tn.com:8080/images/16cd0e23aa20b7fa1fe51d4ed0b98b29.png" ,AR:BEIN SPORTS 1 SD
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/88
-#EXTINF:-1 group-title="BEIN SPORT MINI" tvg-logo="http://iptv-tn.com:8080/images/16cd0e23aa20b7fa1fe51d4ed0b98b29.png" ,AR:BEIN SPORTS 2 SD
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/89
-#EXTINF:-1 group-title="BEIN SPORT MINI" tvg-logo="http://iptv-tn.com:8080/images/16cd0e23aa20b7fa1fe51d4ed0b98b29.png" ,AR:BEIN SPORTS 3 SD
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/90
-#EXTINF:-1 group-title="BEIN SPORT MINI" tvg-logo="http://iptv-tn.com:8080/images/16cd0e23aa20b7fa1fe51d4ed0b98b29.png" ,AR:BEIN SPORTS 4 SD
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/91
-#EXTINF:-1 group-title="BEIN SPORT MINI" tvg-logo="http://iptv-tn.com:8080/images/16cd0e23aa20b7fa1fe51d4ed0b98b29.png" ,AR:BEIN SPORTS 5 SD
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/92
-#EXTINF:-1 group-title="BEIN SPORT MINI" tvg-logo="http://iptv-tn.com:8080/images/16cd0e23aa20b7fa1fe51d4ed0b98b29.png" ,AR:BEIN SPORTS 6 SD
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/93
-#EXTINF:-1 group-title="BEIN SPORT MINI" tvg-logo="http://iptv-tn.com:8080/images/16cd0e23aa20b7fa1fe51d4ed0b98b29.png" ,AR:BEIN SPORTS 7 SD
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/94
-#EXTINF:-1 group-title="BEIN SPORT MINI" tvg-logo="http://iptv-tn.com:8080/images/16cd0e23aa20b7fa1fe51d4ed0b98b29.png" ,AR: beIN SPORTS 8 SD
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/95
-#EXTINF:-1 group-title="BEIN SPORT MINI" ,AR: beIN SPORTS 9 SD
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/2381
-#EXTINF:-1 group-title="BEIN SPORT MINI" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" ,beIN SPORTS 1 LOW
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/36
-#EXTINF:-1 group-title="BEIN SPORT MINI" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png" ,beIN SPORTS 2 LOW
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/37
-#EXTINF:-1 group-title="BEIN SPORT MINI" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS9.png" ,beIN SPORTS 9 LOW
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/44
-#EXTINF:-1 group-title="BEIN SPORT MINI" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" ,beIN SPORTS 3 LOW
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/38
-#EXTINF:-1 group-title="BEIN SPORT MINI" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" ,beIN SPORTS 4 LOW
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/39
-#EXTINF:-1 group-title="BEIN SPORT MINI" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS5_DIGITAL_Mono.png" ,beIN SPORTS 5 LOW
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/40
-#EXTINF:-1 group-title="BEIN SPORT MINI" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS6_DIGITAL_Mono.png" ,beIN SPORTS 6 LOW
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/41
-#EXTINF:-1 group-title="BEIN SPORT MINI" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS7_DIGITAL_Mono.png" ,beIN SPORTS 7 LOW
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/42
-#EXTINF:-1 group-title="BEIN SPORT MINI" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS8.png" ,beIN SPORTS 8 LOW
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/43
-#EXTINF:-1 group-title="BEIN SPORT 4K" tvg-logo="https://i.pinimg.com/originals/f3/f8/8f/f3f88f9887b0cb3ea04a43fd4856e02b.png" ,BEIN 4K UHD
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/85
-#EXTINF:-1 group-title="BEIN SPORT 4K" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F892%2Fbein-sports-premium-1.png" ,beIN SPORTS 1 full hd
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/79
-#EXTINF:-1 group-title="BEIN SPORT 4K" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" ,beIN SPORTS FullHD2
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/80
-#EXTINF:-1 group-title="BEIN SPORT 4K" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" ,beIN SPORTS FullHD3
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/81
-#EXTINF:-1 group-title="BEIN SPORT 4K" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" ,beIN SPORTS FullHD4
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/82
-#EXTINF:-1 group-title="BEIN SPORT 4K" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/NEW_beIN-SPORTS-MAX-05.png" ,beIN SPORTS FullHD5
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/83
-#EXTINF:-1 group-title="BEIN SPORT 4K" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS7_DIGITAL_Mono.png" ,beIN SPORTS FullHD6
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/84
-#EXTINF:-1 group-title="BEIN SPORT 4K" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F213%2Fbein-sports-english-1.png" ,beIN SPORTS FullHD8
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/78
-#EXTINF:-1 group-title="BEIN SPORT 4K" ,beIN SPORTS FullHD9
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/2380
-#EXTINF:-1 group-title="BEIN SPORT 4K" tvg-logo="http://195.154.136.206/Bein/New/beIN_SPORTS1_PREMIUM_Digital_Mono.png" ,beIN SPORTS 1 [H256]
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/71
-#EXTINF:-1 group-title="BEIN SPORT 4K" tvg-logo="http://195.154.136.206/Bein/4K/Bein2.png" ,beIN SPORTS2 [H265]
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/72
-#EXTINF:-1 group-title="BEIN SPORT 4K" tvg-logo="http://195.154.136.206/Bein/4K/Bein3.png" ,beIN SPORTS3 [H265]
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/73
-#EXTINF:-1 group-title="BEIN SPORT 4K" tvg-logo="http://195.154.136.206/Bein/4K/Bein4.png" ,beIN SPORTS4 [H265]
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/74
-#EXTINF:-1 group-title="BEIN SPORT 4K" tvg-logo="http://195.154.136.206/Bein/4K/Bein5.png" ,beIN SPORTS5 [H265]
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/75
-#EXTINF:-1 group-title="BEIN SPORT 4K" tvg-logo="http://195.154.136.206/Bein/4K/Bein6.png" ,beIN SPORTS6 [H265]
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/76
-#EXTINF:-1 group-title="BEIN SPORT 4K" tvg-logo="http://195.154.136.206/Bein/4K/Bein7.png" ,beIN SPORTS7 [H265]
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/77
-#EXTINF:-1 group-title="BEIN SPORT 4K" ,beIN SPORTS8[H265]
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/2379
-#EXTINF:-1 group-title="BEIN SPORT 4K" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F215%2Fbein-sports-english-1.png" ,beIN SPORTS9 [H265]
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/87
-#EXTINF:-1 group-title="BEIN SPORT 4K" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F214%2Fbein-sports-english-1.png" ,BEIN ENGLISH 1FHD
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/86
-#EXTINF:-1 group-title="BEIN SPORT 4K" ,BeIN SPORTS 2 English fHD
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/5444
-
-#EXTINF:-1 group-title="beIN SPORTS 4K (G)" tvg-logo="http://win4k.xyz:80/images/f6135819d52ec01ad8ec5c8d76180dd1.png" ,AR | BEIN SPORTS G 1 4K
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/13372
-#EXTINF:-1 group-title="beIN SPORTS 4K (G)" tvg-logo="http://win4k.xyz:80/images/d062e8876338e2a9661e680cbfb36ebc.png" ,AR | BEIN SPORTS G 2 4K
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/13373
-#EXTINF:-1 group-title="beIN SPORTS 4K (G)" tvg-logo="http://win4k.xyz:80/images/4e8e479fec112adacfa58a4c3f390486.png" ,AR | BEIN SPORTS G 3 4K
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/13374
-#EXTINF:-1 group-title="beIN SPORTS 4K (G)" tvg-logo="http://win4k.xyz:80/images/6dfc6df5edc09bbac18d88712427930a.png" ,AR | BEIN SPORTS G 4 4K
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/13375
-#EXTINF:-1 group-title="beIN SPORTS 4K (G)" tvg-logo="http://win4k.xyz:80/images/73d4391f2c9d936ef831f97813aa531c.png" ,AR | BEIN SPORTS G 5 4K
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/13376
-#EXTINF:-1 group-title="beIN SPORTS 4K (G)" tvg-logo="http://win4k.xyz:80/images/1b139a4496d4888a4cda0889f88ec2cf.png" ,AR | BEIN SPORTS G 6 4K
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/13377
-#EXTINF:-1 group-title="beIN SPORTS 4K (G)" tvg-logo="http://win4k.xyz:80/images/36d3dbd2d708fdc0244dd61460cf41fb.png" ,AR | BEIN SPORTS G 7 4K
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/13378
-#EXTINF:-1 group-title="beIN SPORTS 4K (G)" tvg-logo="http://win4k.xyz:80/images/cf3752b6febd1b0d309e61d3aa1dfb0b.png" ,AR | BEIN SPORTS G 8 4K
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/13379
-#EXTINF:-1 group-title="beIN SPORTS 4K (G)" tvg-logo="http://win4k.xyz:80/images/81f27282caa43dfe85890d51ca58594a.png" ,AR | BEIN SPORTS 9 FHD
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/13380
-
-#EXTM3U
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bs.png" ,✦●✦| HD - BEIN SPORTS HD |✦●✦
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/57
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bsnews.png" tvg-id="beinsportsnewsar.qa" ,AR| BEIN SPORTS NEWS HD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/58
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bs.png" tvg-id="beinsportsglobal.qa" ,AR| BEIN SPORTS HD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/59
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bsnba.png" tvg-id="beinsportsnba.qa" ,AR| BEIN SPORTS NBA HD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/400207008
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bsS1.png" tvg-id="beinsports1.qa" ,AR| BEIN SPORTS 01 HD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/46394
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bsS1.png" tvg-id="beinsports1.qa" ,AR| BEIN SPORTS 01 HD [BK]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/27770
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bsS1.png" tvg-id="beinsports1.qa" ,AR| BEIN SPORTS 01 HD [BK1]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/10934
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bsS2.png" tvg-id="beinsports2.qa" ,AR| BEIN SPORTS 02 HD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/76
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bsS2.png" tvg-id="beinsports2.qa" ,AR| BEIN SPORTS 02 HD [BK]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/27769
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bsS2.png" tvg-id="beinsports2.qa" ,AR| BEIN SPORTS 02 HD [BK1]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/10933
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bs3.png" tvg-id="beinsports3.qa" ,AR| BEIN SPORTS 03 HD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/77
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bs3.png" tvg-id="beinsports3.qa" ,AR| BEIN SPORTS 03 HD [BK]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/27768
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bs3.png" tvg-id="beinsports3.qa" ,AR| BEIN SPORTS 03 HD [BK1]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/10932
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bs4.png" tvg-id="beinsports4.qa" ,AR| BEIN SPORTS 04 HD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/61
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bs4.png" tvg-id="beinsports4.qa" ,AR| BEIN SPORTS 04 HD [BK]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/10941
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bs4.png" ,AR| BEIN SPORTS 04 HD [BK1]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32980
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bein/beinn5.png" tvg-id="beinsports5.qa" ,AR| BEIN SPORTS 05 HD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/62
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bein/beinn5.png" tvg-id="beinsports5.qa" ,AR| BEIN SPORTS 05 HD [BK]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/10940
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bein/beinn5.png" ,AR| BEIN SPORTS 05 HD [BK1]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32979
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bein/beinn6.png" ,AR| BEIN SPORTS 06 HD [BK1]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32978
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bein/beinn6.png" tvg-id="beinsports6.qa" ,AR| BEIN SPORTS 06 HD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/63
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bein/beinn6.png" tvg-id="beinsports6.qa" ,AR| BEIN SPORTS 06 HD [BK]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/10939
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/BEIN SPORTS 07.png" tvg-id="beinsports7.qa" ,AR| BEIN SPORTS 07 HD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/64
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/BEIN SPORTS 07.png" tvg-id="beinsports7.qa" ,AR| BEIN SPORTS 07 HD [BK]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/10938
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/BEIN SPORTS 07.png" ,AR| BEIN SPORTS 07 HD [BK1]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32977
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bss8.png" tvg-id="beinsports8.qa" ,AR| BEIN SPORTS 08 HD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/65
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bss8.png" tvg-id="beinsports8.qa" ,AR| BEIN SPORTS 08 HD [BK]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/10937
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bss8.png" ,AR| BEIN SPORTS 08 HD [BK1]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32976
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/BEIN09.png" tvg-id="beinsports9.qa" ,AR| BEIN SPORTS 09 HD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/66
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/BEIN09.png" tvg-id="beinsports9.qa" ,AR| BEIN SPORTS 09 HD [BK]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/10936
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/BEIN09.png" ,AR| BEIN SPORTS 09 HD [BK1]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32975
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bs1fre.png" tvg-id="beinsports1fr.qa" ,AR| BEIN SPORTS 01 FRENCH HD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/78
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bs1fre.png" ,AR| BEIN SPORTS 01 FRENCH HD [BK]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32902
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bs1fre.png" ,AR| BEIN SPORTS 01 FRENCH HD [BK1]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32974
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bs2fre.png" tvg-id="beinsports2fr.qa" ,AR| BEIN SPORTS 02 FRENCH HD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/79
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bs2fre.png" ,AR| BEIN SPORTS 02 FRENCH HD [BK]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32901
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bs2fre.png" ,AR| BEIN SPORTS 02 FRENCH HD [BK1]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32973
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bs1eng.png" tvg-id="beinsports1en.qa" ,AR| BEIN SPORTS 01 ENGLISH HD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/81
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bs1eng.png" ,AR| BEIN SPORTS 01 ENGLISH HD [BK]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32900
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bs1eng.png" ,AR| BEIN SPORTS 01 ENGLISH HD [BK1]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32972
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bs2eng.png" tvg-id="beinsports2en.qa" ,AR| BEIN SPORTS 02 ENGLISH HD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/82
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bs2eng.png" ,AR| BEIN SPORTS 02 ENGLISH HD [BK]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32899
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bs2eng.png" ,AR| BEIN SPORTS 02 ENGLISH HD [BK1]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32971
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bsxtra1.png" tvg-id="beinsportsxtra1.qa" ,AR| BEIN SPORTS 01 XTRA HD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/400193265
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bsxtra1.png" ,AR| BEIN SPORTS 01 XTRA HD [BK]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32898
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bsxtra1.png" ,AR| BEIN SPORTS 01 XTRA HD [BK1]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32970
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bsxtra2.png" tvg-id="beinsportsxtra2.qa" ,AR| BEIN SPORTS 02 XTRA HD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/400193264
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bsxtra2.png" ,AR| BEIN SPORTS 02 XTRA HD [BK]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32897
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bsxtra2.png" ,AR| BEIN SPORTS 02 XTRA HD [BK1]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32969
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bs3btr.png" tvg-id="beinsportsxtra3.qa" ,AR| BEIN SPORTS 03 XTRA HD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/67
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bs3btr.png" ,AR| BEIN SPORTS 03 XTRA HD [BK]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32896
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bs3btr.png" ,AR| BEIN SPORTS 03 XTRA HD [BK1]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32968
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/AFC.png" tvg-id="beinsportsafc.qa" ,AR| BEIN SPORTS AFC HD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/400370400
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/AFC.png" tvg-id="beinsportsafc1.qa" ,AR| BEIN SPORTS 01 AFC HD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/400370401
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/AFC.png" tvg-id="beinsportsafc2.qa" ,AR| BEIN SPORTS 02 AFC HD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/400370402
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/AFC.png" tvg-id="beinsportsafc3.qa" ,AR| BEIN SPORTS 03 AFC HD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/400370403
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/AFC.png" ,AR| BEIN SPORTS 04 AFC HD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32907
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/AFC.png" ,AR| BEIN SPORTS 05 AFC HD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32904
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bs1max.png" tvg-id="beinsportsmax1.qa" ,AR| BEIN SPORTS MAX 1 HD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/68
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bs1max.png" ,AR| BEIN SPORTS MAX 1 HD [BK]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/53388
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bs1max.png" ,AR| BEIN SPORTS MAX 1 HD [BK1]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/53360
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bs2max.png" tvg-id="beinsportsmax2.qa" ,AR| BEIN SPORTS MAX 2 HD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/69
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bs2max.png" ,AR| BEIN SPORTS MAX 2 HD [BK]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/53387
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bs2max.png" ,AR| BEIN SPORTS MAX 2 HD [BK1]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/53359
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/BEIN 3MAX.png" tvg-id="beinsportsmax3.qa" ,AR| BEIN SPORTS MAX 3 HD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/70
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/BEIN%203MAX.png" ,AR| BEIN SPORTS MAX 3 HD [BK]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/53386
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/BEIN%203MAX.png" ,AR| BEIN SPORTS MAX 3 HD [BK1]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/53358
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bs4max1.png" tvg-id="beinsportsmax4.qa" ,AR| BEIN SPORTS MAX 4 HD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/71
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bs4max1.png" ,AR| BEIN SPORTS MAX 4 HD [BK]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/53385
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bs4max.png" ,AR| BEIN SPORTS MAX 4 HD [BK1]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/53357
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bs5max.png" ,AR| BEIN SPORTS MAX 5 HD [BK1]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/53356
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bs6max.png" ,AR| BEIN SPORTS MAX 6 HD [BK1]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/53355
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bs.png" ,✦●✦| SD - BEIN SPORTS SD |✦●✦
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/84
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bs.png" tvg-id="beinsportsglobal.qa" ,AR| BEIN SPORTS SD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/39323
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bsnews.png" ,AR| BEIN SPORTS NEWS SD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32894
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bsnba.png" tvg-id="beinsportsnba.qa" ,AR| BEIN SPORTS NBA SD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/60
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bsS1.png" tvg-id="beinsports1.qa" ,AR| BEIN SPORTS 01 SD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/99
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bsS1.png" tvg-id="beinsports1.qa" ,AR| BEIN SPORTS 01 SD [BK]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/27773
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bsS1.png" ,AR| BEIN SPORTS 01 SD [BK1]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32964
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bsS2.png" tvg-id="beinsports2.qa" ,AR| BEIN SPORTS 02 SD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/100
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bsS2.png" tvg-id="beinsports2.qa" ,AR| BEIN SPORTS 02 SD [BK]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/27772
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bsS2.png" ,AR| BEIN SPORTS 02 SD [BK1]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32963
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bs3.png" tvg-id="beinsports3.qa" ,AR| BEIN SPORTS 03 SD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/101
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bs3.png" tvg-id="beinsports3.qa" ,AR| BEIN SPORTS 03 SD [BK]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/27771
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bs3.png" ,AR| BEIN SPORTS 03 SD [BK1]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32962
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bs4.png" tvg-id="beinsports4.qa" ,AR| BEIN SPORTS 04 SD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/85
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bs4.png" ,AR| BEIN SPORTS 04 SD [BK]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32888
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bs4.png" ,AR| BEIN SPORTS 04 SD [BK1]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32961
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bein/beinn5.png" tvg-id="beinsports5.qa" ,AR| BEIN SPORTS 05 SD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/86
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bein/beinn5.png" ,AR| BEIN SPORTS 05 SD [BK]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32887
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bein/beinn5.png" ,AR| BEIN SPORTS 05 SD [BK1]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32960
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bein/beinn6.png" tvg-id="beinsports6.qa" ,AR| BEIN SPORTS 06 SD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/87
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bein/beinn6.png" ,AR| BEIN SPORTS 06 SD [BK]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32886
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bein/beinn6.png" ,AR| BEIN SPORTS 06 SD [BK1]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32959
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/BEIN SPORTS 07.png" tvg-id="beinsports7.qa" ,AR| BEIN SPORTS 07 SD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/88
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/BEIN SPORTS 07.png" ,AR| BEIN SPORTS 07 SD [BK]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32885
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/BEIN SPORTS 07.png" ,AR| BEIN SPORTS 07 SD [BK1]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32958
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bss8.png" tvg-id="beinsports8.qa" ,AR| BEIN SPORTS 08 SD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/89
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bss8.png" ,AR| BEIN SPORTS 08 SD [BK]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32884
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bss8.png" ,AR| BEIN SPORTS 08 SD [BK1]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32957
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/BEIN09.png" tvg-id="beinsports9.qa" ,AR| BEIN SPORTS 09 SD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/90
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/BEIN09.png" ,AR| BEIN SPORTS 09 SD [BK]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32883
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/BEIN09.png" ,AR| BEIN SPORTS 09 SD [BK1]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32956
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bs1fre.png" tvg-id="beinsports1fr.qa" ,AR| BEIN SPORTS 01 FRENCH SD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/102
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bs1fre.png" ,AR| BEIN SPORTS 01 FRENCH SD [BK]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32882
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bs2fre.png" tvg-id="beinsports2fr.qa" ,AR| BEIN SPORTS 02 FRENCH SD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/103
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bs2fre.png" ,AR| BEIN SPORTS 02 FRENCH SD [BK]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32881
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bs1eng.png" tvg-id="beinsports1en.qa" ,AR| BEIN SPORTS 01 ENGLISH SD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/105
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bs1eng.png" ,AR| BEIN SPORTS 01 ENGLISH SD [BK]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32880
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bs1eng.png" ,AR| BEIN SPORTS 01 ENGLISH SD [BK1]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32955
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bs2eng.png" tvg-id="beinsports2en.qa" ,AR| BEIN SPORTS 02 ENGLISH SD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/106
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bs2eng.png" ,AR| BEIN SPORTS 02 ENGLISH SD [BK]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32879
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bs2eng.png" ,AR| BEIN SPORTS 02 ENGLISH SD [BK1]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32954
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bsxtra1.png" ,AR| BEIN SPORTS 01 XTRA SD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/400449154
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bsxtra1.png" ,AR| BEIN SPORTS 01 XTRA SD [BK]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32878
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bsxtra1.png" ,AR| BEIN SPORTS 01 XTRA SD [BK1]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32953
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bsxtra2.png" ,AR| BEIN SPORTS 02 XTRA SD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/400449155
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bsxtra2.png" ,AR| BEIN SPORTS 02 XTRA SD [BK]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32877
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bsxtra2.png" ,AR| BEIN SPORTS 02 XTRA SD [BK1]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32952
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bs3btr.png" tvg-id="beinsportsxtra3.qa" ,AR| BEIN SPORTS 03 XTRA SD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/91
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bs3btr.png" ,AR| BEIN SPORTS 03 XTRA SD [BK]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32876
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bs3btr.png" ,AR| BEIN SPORTS 03 XTRA SD [BK1]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32951
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/AFC.png" tvg-id="beinsportsafc.qa" ,AR| BEIN SPORTS AFC SD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/400370408
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/AFC.png" tvg-id="beinsportsafc1.qa" ,AR| BEIN SPORTS 01 AFC SD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/400370409
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/AFC.png" tvg-id="beinsportsafc2.qa" ,AR| BEIN SPORTS 02 AFC SD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/400370410
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/AFC.png" tvg-id="beinsportsafc3.qa" ,AR| BEIN SPORTS 03 AFC SD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/400370411
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/AFC.png" ,AR| BEIN SPORTS 04 AFC SD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32906
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/AFC.png" ,AR| BEIN SPORTS 05 AFC SD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32903
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bs1max.png" tvg-id="beinsportsmax1.qa" ,AR| BEIN SPORTS MAX 1 SD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/92
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bs1max.png" ,AR| BEIN SPORTS MAX 1 SD [BK]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/53384
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bs1max.png" ,AR| BEIN SPORTS MAX 1 SD [BK1]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/53354
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bs2max.png" tvg-id="beinsportsmax2.qa" ,AR| BEIN SPORTS MAX 2 SD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/93
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bs2max.png" ,AR| BEIN SPORTS MAX 2 SD [BK]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/53383
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bs2max.png" ,AR| BEIN SPORTS MAX 2 SD [BK1]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/53353
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/BEIN 3MAX.png" tvg-id="beinsportsmax3.qa" ,AR| BEIN SPORTS MAX 3 SD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/94
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/BEIN%203MAX.png" ,AR| BEIN SPORTS MAX 3 SD [BK]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/53382
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/BEIN%203MAX.png" ,AR| BEIN SPORTS MAX 3 SD [BK1]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/53352
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bs4max1.png" tvg-id="beinsportsmax4.qa" ,AR| BEIN SPORTS MAX 4 SD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/95
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bs4max1.png" ,AR| BEIN SPORTS MAX 4 SD [BK]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/53381
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bs4max1.png" ,AR| BEIN SPORTS MAX 4 SD [BK1]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/53351
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bs5max.png" ,AR| BEIN SPORTS MAX 5 SD [BK1]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/53350
-#EXTINF:-1 group-title="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bs6max.png" ,AR| BEIN SPORTS MAX 6 SD [BK1]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/53349
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bs.png" ,✦●✦| 4K - BEIN SPORTS 4K |✦●✦
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/30
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/FCB/4kkkk.png" tvg-id="beinsports4k.qa" ,AR| BEIN 4K+
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/39322
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bsnews.png" tvg-id="beinsportsnews.qa" ,AR| BEIN SPORTS NEWS 4K
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/31
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bs.png" tvg-id="beinsportsglobalar.qa" ,AR| BEIN SPORTS 4K
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bsnba.png" tvg-id="beinsportsnbaar.qa" ,AR| BEIN SPORTS NBA 4K
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/33
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bsS1.png" tvg-id="beinsports1.qa" ,AR| BEIN SPORTS 01 4K
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/48
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bsS1.png" tvg-id="beinsports1.qa" ,AR| BEIN SPORTS 01 4K [BK]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/27767
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bsS1.png" tvg-id="beinsports1.qa" ,AR| BEIN SPORTS 01 4K [BK1]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/13952
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bsS2.png" tvg-id="beinsports2.qa" ,AR| BEIN SPORTS 02 4K
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/49
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bsS2.png" tvg-id="beinsports2.qa" ,AR| BEIN SPORTS 02 4K [BK]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/27766
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bsS2.png" tvg-id="beinsports2.qa" ,AR| BEIN SPORTS 02 4K [BK1]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/13951
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bs3.png" tvg-id="beinsports3.qa" ,AR| BEIN SPORTS 03 4K
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/34
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bs3.png" ,AR| BEIN SPORTS 03 4K [BK]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32849
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bs3.png" ,AR| BEIN SPORTS 03 4K [BK1]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32927
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bs4.png" tvg-id="beinsports4.qa" ,AR| BEIN SPORTS 04 4K
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/35
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bs4.png" ,AR| BEIN SPORTS 04 4K [BK]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32848
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bs4.png" ,AR| BEIN SPORTS 04 4K [BK1]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32926
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bs5.png" tvg-id="beinsports5.qa" ,AR| BEIN SPORTS 05 4K
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/36
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bs5.png" ,AR| BEIN SPORTS 05 4K [BK]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32847
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bs5.png" ,AR| BEIN SPORTS 05 4K [BK1]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32925
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bein/beinn6.png" tvg-id="beinsports6.qa" ,AR| BEIN SPORTS 06 4K
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/37
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bein/beinn6.png" ,AR| BEIN SPORTS 06 4K [BK]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32846
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bein/beinn6.png" ,AR| BEIN SPORTS 06 4K [BK1]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32924
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/BEIN SPORTS 07.png" tvg-id="beinsports7.qa" ,AR| BEIN SPORTS 07 4K
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/38
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/BEIN SPORTS 07.png" ,AR| BEIN SPORTS 07 4K [BK]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32845
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/BEIN SPORTS 07.png" ,AR| BEIN SPORTS 07 4K [BK1]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32923
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bss8.png" tvg-id="beinsports8.qa" ,AR| BEIN SPORTS 08 4K
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/39
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bss8.png" ,AR| BEIN SPORTS 08 4K [BK]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32844
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bss8.png" ,AR| BEIN SPORTS 08 4K [BK1]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32922
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bs9.png" tvg-id="beinsports9.qa" ,AR| BEIN SPORTS 09 4K
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/40
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bs9.png" ,AR| BEIN SPORTS 09 4K [BK]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32843
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bs9.png" ,AR| BEIN SPORTS 09 4K [BK1]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32921
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bs1fre.png" tvg-id="beinsports1fr.qa" ,AR| BEIN SPORTS 01 FRENCH 4K
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/51
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bs1fre.png" ,AR| BEIN SPORTS 01 FRENCH 4K [BK]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32842
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bs2fre.png" tvg-id="beinsports2fr.qa" ,AR| BEIN SPORTS 02 FRENCH 4K
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/52
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bs2fre.png" ,AR| BEIN SPORTS 02 FRENCH 4K [BK]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32841
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bs1eng.png" tvg-id="beinsports1en.qa" ,AR| BEIN SPORTS 01 ENGLISH 4K
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/54
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bs1eng.png" ,AR| BEIN SPORTS 01 ENGLISH 4K [BK]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32840
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bs1eng.png" ,AR| BEIN SPORTS 01 ENGLISH 4K [BK1]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32920
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bs2eng.png" tvg-id="beinsports2en.qa" ,AR| BEIN SPORTS 02 ENGLISH 4K
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/55
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bs2eng.png" ,AR| BEIN SPORTS 02 ENGLISH 4K [BK]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32839
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bs2eng.png" ,AR| BEIN SPORTS 02 ENGLISH 4K [BK1]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32919
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bsxtra1.png" tvg-id="beinsportsxtra1.qa" ,AR| BEIN SPORTS 01 XTRA 4k
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/1299
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bsxtra1.png" ,AR| BEIN SPORTS 01 XTRA 4K [BK]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32838
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bsxtra1.png" ,AR| BEIN SPORTS 01 XTRA 4K [BK1]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32918
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bsxtra2.png" tvg-id="beinsportsxtra2.qa" ,AR| BEIN SPORTS 02 XTRA 4k
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/1298
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bsxtra2.png" ,AR| BEIN SPORTS 02 XTRA 4K [BK]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32837
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bsxtra2.png" ,AR| BEIN SPORTS 02 XTRA 4K [BK1]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32917
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bs3btr.png" tvg-id="beinsportsxtra3.qa" ,AR| BEIN SPORTS 03 XTRA 4K
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/50
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bs3btr.png" ,AR| BEIN SPORTS 03 XTRA 4K [BK1]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32916
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/AFC.png" tvg-id="beinsportsafc.qa" ,AR| BEIN SPORTS AFC 4K
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/400370404
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/AFC.png" tvg-id="beinsportsafc1.qa" ,AR| BEIN SPORTS 01 AFC 4K
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/400370405
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/AFC.png" tvg-id="beinsportsafc2.qa" ,AR| BEIN SPORTS 02 AFC 4K
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/400370406
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/AFC.png" tvg-id="beinsportsafc3.qa" ,AR| BEIN SPORTS 03 AFC 4K
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/400370407
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/AFC.png" ,AR| BEIN SPORTS 04 AFC 4K
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32908
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/AFC.png" ,AR| BEIN SPORTS 05 AFC 4K
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32905
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bs1max.png" tvg-id="beinsportsmax1.qa" ,AR| BEIN SPORTS MAX 1 4K
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/41
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bs1max.png" ,AR| BEIN SPORTS MAX 1 4K [BK]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/53380
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bs1max.png" ,AR| BEIN SPORTS MAX 1 4K [BK1]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/53372
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bs2max.png" tvg-id="beinsportsmax2.qa" ,AR| BEIN SPORTS MAX 2 4K
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/42
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bs2max.png" ,AR| BEIN SPORTS MAX 2 4K [BK]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/53379
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bs2max.png" ,AR| BEIN SPORTS MAX 2 4K [BK1]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/53371
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/BEIN 3MAX.png" tvg-id="beinsportsmax3.qa" ,AR| BEIN SPORTS MAX 3 4K
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/43
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/BEIN%203MAX.png" ,AR| BEIN SPORTS MAX 3 4K [BK]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/53378
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/BEIN%203MAX.png" ,AR| BEIN SPORTS MAX 3 4K [BK1]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/53370
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bs4max1.png" tvg-id="beinsportsmax4.qa" ,AR| BEIN SPORTS MAX 4 4K
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/44
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bs4max1.png" ,AR| BEIN SPORTS MAX 4 4K [BK]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/53377
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bs4max1.png" ,AR| BEIN SPORTS MAX 4 4K [BK1]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/53369
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bs5max.png" ,AR| BEIN SPORTS MAX 5 4K [BK1]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/53368
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bs6max.png" ,AR| BEIN SPORTS MAX 6 4K [BK1]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/53367
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bs.png" ,✦●✦| FHD - BEIN SPORTS FHD |✦●✦
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/1
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bsnews.png" tvg-id="beinsportsnews.qa" ,AR| BEIN SPORTS NEWS FHD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/3
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bs.png" tvg-id="beinsportsglobal.qa" ,AR| BEIN SPORTS FHD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/29542
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bsnba.png" tvg-id="beinsportsnba.qa" ,AR| BEIN SPORTS NBA FHD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/5
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bsS1.png" tvg-id="beinsports1.qa" ,AR| BEIN SPORTS 01 FHD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/20
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bsS1.png" ,AR| BEIN SPORTS 01 FHD [BK]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32871
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bsS1.png" tvg-id="beinsports1.qa" ,AR| BEIN SPORTS 01 FHD [BK1]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/13949
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bsS1.png" ,AR| BEIN SPORTS 01 UHD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32911
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bsS2.png" tvg-id="beinsports2.qa" ,AR| BEIN SPORTS 02 FHD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/21
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bsS2.png" ,AR| BEIN SPORTS 02 FHD [BK]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32870
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bsS2.png" tvg-id="beinsports2.qa" ,AR| BEIN SPORTS 02 FHD [BK1]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/13948
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bsS2.png" ,AR| BEIN SPORTS 02 UHD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32910
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bs3.png" tvg-id="beinsports3.qa" ,AR| BEIN SPORTS 03 FHD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/6
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bs3.png" ,AR| BEIN SPORTS 03 FHD [BK]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32869
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bs3.png" ,AR| BEIN SPORTS 03 FHD [BK1]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32944
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bs3.png" ,AR| BEIN SPORTS 03 UHD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32909
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bs4.png" tvg-id="beinsports4.qa" ,AR| BEIN SPORTS 04 FHD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/7
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bs4.png" ,AR| BEIN SPORTS 04 FHD [BK]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32868
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bs4.png" ,AR| BEIN SPORTS 04 FHD [BK1]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32943
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bs5.png" tvg-id="beinsports5.qa" ,AR| BEIN SPORTS 05 FHD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/8
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bs5.png" ,AR| BEIN SPORTS 05 FHD [BK]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32867
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bs5.png" ,AR| BEIN SPORTS 05 FHD [BK1]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32942
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bein/beinn6.png" tvg-id="beinsports6.qa" ,AR| BEIN SPORTS 06 FHD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/9
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bein/beinn6.png" ,AR| BEIN SPORTS 06 FHD [BK]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32866
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bein/beinn6.png" ,AR| BEIN SPORTS 06 FHD [BK1]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32941
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/BEIN SPORTS 07.png" tvg-id="beinsports7.qa" ,AR| BEIN SPORTS 07 FHD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/10
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/BEIN SPORTS 07.png" ,AR| BEIN SPORTS 07 FHD [BK]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32865
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/BEIN SPORTS 07.png" ,AR| BEIN SPORTS 07 FHD [BK1]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32940
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bss8.png" tvg-id="beinsports8.qa" ,AR| BEIN SPORTS 08 FHD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/11
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bss8.png" ,AR| BEIN SPORTS 08 FHD [BK]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32864
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bss8.png" ,AR| BEIN SPORTS 08 FHD [BK1]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32939
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bs9.png" tvg-id="beinsports9.qa" ,AR| BEIN SPORTS 09 FHD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/12
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bs9.png" ,AR| BEIN SPORTS 09 FHD [BK]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32863
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bs9.png" ,AR| BEIN SPORTS 09 FHD [BK1]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32938
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bs1fre.png" tvg-id="beinsports1fr.qa" ,AR| BEIN SPORTS 01 FRENCH FHD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/23
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bs1fre.png" ,AR| BEIN SPORTS 01 FRENCH FHD [BK]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32862
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bs1fre.png" ,AR| BEIN SPORTS 01 FRENCH FHD [BK1]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32937
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bs2fre.png" tvg-id="beinsports2fr.qa" ,AR| BEIN SPORTS 02 FRENCH FHD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/24
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bs2fre.png" ,AR| BEIN SPORTS 02 FRENCH FHD [BK]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32861
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bs2fre.png" ,AR| BEIN SPORTS 02 FRENCH FHD [BK1]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32936
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bs1eng.png" tvg-id="beinsports1en.qa" ,AR| BEIN SPORTS 01 ENGLISH FHD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/26
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bs1eng.png" ,AR| BEIN SPORTS 01 ENGLISH FHD [BK]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32860
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bs1eng.png" ,AR| BEIN SPORTS 01 ENGLISH FHD [BK1]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32935
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bs2eng.png" tvg-id="beinsports2en.qa" ,AR| BEIN SPORTS 02 ENGLISH FHD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/27
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bs2eng.png" ,AR| BEIN SPORTS 02 ENGLISH FHD [BK]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32859
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bs2eng.png" ,AR| BEIN SPORTS 02 ENGLISH FHD [BK1]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32934
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bsxtra1.png" tvg-id="beinsportsxtra1.qa" ,AR| BEIN SPORTS 01 XTRA FHD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/400193258
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bsxtra1.png" ,AR| BEIN SPORTS 01 XTRA FHD [BK1]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32933
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bsxtra2.png" tvg-id="beinsportsxtra2.qa" ,AR| BEIN SPORTS 02 XTRA FHD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/400193259
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bsxtra2.png" ,AR| BEIN SPORTS 02 XTRA FHD [BK1]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32932
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bs3btr.png" tvg-id="beinsportsxtra3.qa" ,AR| BEIN SPORTS 03 XTRA FHD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/22
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bs3btr.png" ,AR| BEIN SPORTS 03 XTRA FHD [BK1]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/32931
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/AFC.png" tvg-id="beinsportsafc.qa" ,AR| BEIN SPORTS AFC FHD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/400370396
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/AFC.png" tvg-id="beinsportsafc1.qa" ,AR| BEIN SPORTS 01 AFC FHD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/400370397
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/AFC.png" tvg-id="beinsportsafc2.qa" ,AR| BEIN SPORTS 02 AFC FHD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/400370398
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/AFC.png" tvg-id="beinsportsafc3.qa" ,AR| BEIN SPORTS 03 AFC FHD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/400370399
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/AFC.png" ,AR| BEIN SPORTS 04 AFC FHD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/267441
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bs1max.png" tvg-id="beinsportsmax1.qa" ,AR| BEIN SPORTS MAX 1 FHD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/13
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bs1max.png" ,AR| BEIN SPORTS MAX 1 FHD [BK]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/53376
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bs1max.png" ,AR| BEIN SPORTS MAX 1 FHD [BK1]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/53366
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bs2max.png" tvg-id="beinsportsmax2.qa" ,AR| BEIN SPORTS MAX 2 FHD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/14
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bs2max.png" ,AR| BEIN SPORTS MAX 2 FHD [BK]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/53375
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bs2max.png" ,AR| BEIN SPORTS MAX 2 FHD [BK1]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/53365
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/BEIN 3MAX.png" tvg-id="beinsportsmax3.qa" ,AR| BEIN SPORTS MAX 3 FHD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/15
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/BEIN%203MAX.png" ,AR| BEIN SPORTS MAX 3 FHD [BK]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/53374
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/BEIN%203MAX.png" ,AR| BEIN SPORTS MAX 3 FHD [BK1]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/53364
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bs4max1.png" tvg-id="beinsportsmax4.qa" ,AR| BEIN SPORTS MAX 4 FHD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/16
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bs4max1.png" ,AR| BEIN SPORTS MAX 4 FHD [BK]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/53373
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bs4max1.png" ,AR| BEIN SPORTS MAX 4 FHD [BK1]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/53363
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bs5max.png" ,AR| BEIN SPORTS MAX 5 FHD [BK1]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/53362
-#EXTINF:-1 group-title="AR | BEIN SPORTS FHD / 4K" tvg-logo="https://lo1.in/bss/bs6max.png" ,AR| BEIN SPORTS MAX 6 FHD [BK1]
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/53361
-#EXTINF:-1 group-title="AR | BEIN SPORTS PREMIUM" tvg-logo="https://lo1.in/bss/bs.png" ,✦●✦| AR - BEIN SPORTS HD |✦●✦
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/401463777
-#EXTINF:-1 group-title="AR | BEIN SPORTS PREMIUM" tvg-logo="https://lo1.in/bss/bs1.png" ,AR | BEIN-SPORTS 1 HD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/401463440
-#EXTINF:-1 group-title="AR | BEIN SPORTS PREMIUM" tvg-logo="https://lo1.in/bss/bs2.png" ,AR | BEIN-SPORTS 2 HD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/401463439
-#EXTINF:-1 group-title="AR | BEIN SPORTS PREMIUM" tvg-logo="https://lo1.in/bss/bs3.png" ,AR | BEIN-SPORTS 3 HD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/401463438
-#EXTINF:-1 group-title="AR | BEIN SPORTS PREMIUM" tvg-logo="https://lo1.in/bss/bs4.png" ,AR | BEIN-SPORTS 4 HD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/401463437
-#EXTINF:-1 group-title="AR | BEIN SPORTS PREMIUM" tvg-logo="https://lo1.in/bss/bs5.png" ,AR | BEIN-SPORTS 5 HD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/401463436
-#EXTINF:-1 group-title="AR | BEIN SPORTS PREMIUM" tvg-logo="https://lo1.in/bss/bs6.png" ,AR | BEIN-SPORTS 6 HD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/401463435
-#EXTINF:-1 group-title="AR | BEIN SPORTS PREMIUM" tvg-logo="https://lo1.in/bss/bs7.png" ,AR | BEIN-SPORTS 7 HD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/401463434
-#EXTINF:-1 group-title="AR | BEIN SPORTS PREMIUM" tvg-logo="https://lo1.in/bss/bs8.png" ,AR | BEIN-SPORTS 8 HD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/401463433
-#EXTINF:-1 group-title="AR | BEIN SPORTS PREMIUM" tvg-logo="https://lo1.in/bss/bs9.png" ,AR | BEIN-SPORTS 9 HD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/401463432
-#EXTINF:-1 group-title="AR | BEIN SPORTS PREMIUM" tvg-logo="https://lo1.in/bss/bsxtra1.png" ,AR | BEIN  Extra 1 HD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/401463431
-#EXTINF:-1 group-title="AR | BEIN SPORTS PREMIUM" tvg-logo="https://lo1.in/bss/bs.png" ,✦●✦| AR - BEIN SPORTS FHD |✦●✦
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/401463776
-#EXTINF:-1 group-title="AR | BEIN SPORTS PREMIUM" tvg-logo="https://lo1.in/bss/bs1.png" ,AR | BEIN-SPORTS 1 FHD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/401463461
-#EXTINF:-1 group-title="AR | BEIN SPORTS PREMIUM" tvg-logo="https://lo1.in/bss/bs2.png" ,AR | BEIN-SPORTS 2 FHD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/401463460
-#EXTINF:-1 group-title="AR | BEIN SPORTS PREMIUM" tvg-logo="https://lo1.in/bss/bs3.png" ,AR | BEIN-SPORTS 3 FHD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/401463459
-#EXTINF:-1 group-title="AR | BEIN SPORTS PREMIUM" tvg-logo="https://lo1.in/bss/bs4.png" ,AR | BEIN-SPORTS 4 FHD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/401463458
-#EXTINF:-1 group-title="AR | BEIN SPORTS PREMIUM" tvg-logo="https://lo1.in/bss/bs5.png" ,AR | BEIN-SPORTS 5 FHD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/401463456
-#EXTINF:-1 group-title="AR | BEIN SPORTS PREMIUM" tvg-logo="https://lo1.in/bss/bs6.png" ,AR | BEIN-SPORTS 6 FHD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/401463454
-#EXTINF:-1 group-title="AR | BEIN SPORTS PREMIUM" tvg-logo="https://lo1.in/bss/bs7.png" ,AR | BEIN-SPORTS 7 FHD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/401463452
-#EXTINF:-1 group-title="AR | BEIN SPORTS PREMIUM" tvg-logo="https://lo1.in/bss/bs8.png" ,AR | BEIN-SPORTS 8 FHD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/401463450
-#EXTINF:-1 group-title="AR | BEIN SPORTS PREMIUM" tvg-logo="https://lo1.in/bss/bs9.png" ,AR | BEIN-SPORTS 9 FHD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/401463448
-#EXTINF:-1 group-title="AR | BEIN SPORTS PREMIUM" tvg-logo="https://lo1.in/bss/bsxtra1.png" ,AR | BEIN   Extra 1 FHD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/401463447
-#EXTINF:-1 group-title="AR | BEIN SPORTS PREMIUM" tvg-logo="https://lo1.in/bss/bsxtra2.png" ,AR | BEIN  Extra 2 FHD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/401463446
-#EXTINF:-1 group-title="AR | BEIN SPORTS PREMIUM" tvg-logo="https://lo1.in/bss/bs3btr.png" ,AR | BEIN  Extra 3 FHD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/401463445
-#EXTINF:-1 group-title="AR | BEIN SPORTS PREMIUM" tvg-logo="https://lo1.in/bss/AFC.png" ,AR | BEIN  AFC FHD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/401463444
-#EXTINF:-1 group-title="AR | BEIN SPORTS PREMIUM" tvg-logo="https://lo1.in/bss/AFC.png" ,AR | BEIN  AFC 1 FHD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/401463443
-#EXTINF:-1 group-title="AR | BEIN SPORTS PREMIUM" tvg-logo="https://lo1.in/bss/AFC.png" ,AR | BEIN  AFC 2 FHD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/401463442
-#EXTINF:-1 group-title="AR | BEIN SPORTS PREMIUM" tvg-logo="https://lo1.in/bss/AFC.png" ,AR | BEIN  AFC 3 FHD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/401463441
-#EXTINF:-1 group-title="AR | BEIN SPORTS PREMIUM" tvg-logo="https://lo1.in/bss/bs.png" ,✦●✦| AR - BEIN SPORTS SD |✦●✦
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/401463786
-#EXTINF:-1 group-title="AR | BEIN SPORTS PREMIUM" tvg-logo="https://lo1.in/bss/bs1.png" ,AR | BEIN-SPORTS 1 SD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/401463430
-#EXTINF:-1 group-title="AR | BEIN SPORTS PREMIUM" tvg-logo="https://lo1.in/bss/bs2.png" ,AR | BEIN-SPORTS 2 SD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/401463429
-#EXTINF:-1 group-title="AR | BEIN SPORTS PREMIUM" tvg-logo="https://lo1.in/bss/bs3.png" ,AR | BEIN-SPORTS 3 SD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/401463428
-#EXTINF:-1 group-title="AR | BEIN SPORTS PREMIUM" tvg-logo="https://lo1.in/bss/bs4.png" ,AR | BEIN-SPORTS 4 SD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/401463427
-#EXTINF:-1 group-title="AR | BEIN SPORTS PREMIUM" tvg-logo="https://lo1.in/bss/bs5.png" ,AR | BEIN-SPORTS 5 SD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/401463426
-#EXTINF:-1 group-title="AR | BEIN SPORTS PREMIUM" tvg-logo="https://lo1.in/bss/bs6.png" ,AR | BEIN-SPORTS 6 SD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/401463425
-#EXTINF:-1 group-title="AR | BEIN SPORTS PREMIUM" tvg-logo="https://lo1.in/bss/bs7.png" ,AR | BEIN-SPORTS 7 SD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/401463424
-#EXTINF:-1 group-title="AR | BEIN SPORTS PREMIUM" tvg-logo="https://lo1.in/bss/bs8.png" ,AR | BEIN-SPORTS 8 SD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/401463423
-#EXTINF:-1 group-title="AR | BEIN SPORTS PREMIUM" tvg-logo="https://lo1.in/bss/bs9.png" ,AR | BEIN-SPORTS 9 SD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/401463422
-#EXTINF:-1 group-title="AR | BEIN SPORTS PREMIUM" tvg-logo="https://lo1.in/bss/bsxtra1.png" ,AR | BEIN-SPORTS 1 Extra SD
-http://bxzrvxd.megahdtv.xyz/2745852318/4522859A/401463421
-
-
-
-#EXTINF:-1 group-title="SSC SPORTS" ,SSC.NEWS HD
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/104
-#EXTINF:-1 group-title="SSC SPORTS" ,SSC.SPORTS.1.HD
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/105
-#EXTINF:-1 group-title="SSC SPORTS" ,SSC.SPORTS.2.HD
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/106
-#EXTINF:-1 group-title="SSC SPORTS" ,SSC.SPORTS.3.HD
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/107
-#EXTINF:-1 group-title="SSC SPORTS" ,SSC.SPORTS.4.HD
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/108
-#EXTINF:-1 group-title="SSC SPORTS" ,SSC.SPORTS.5.HD
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/109
-#EXTINF:-1 group-title="SSC SPORTS" ,SSC.SPORTS.EXTRA.1.HD
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/110
-#EXTINF:-1 group-title="SSC SPORTS" ,SSC.SPORTS.EXTRA.2.HD
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/111
-#EXTINF:-1 group-title="SSC SPORTS" ,SSC.SPORTS.EXTRA.3.HD
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/112
-#EXTINF:-1 group-title="SSC SPORTS" ,AR: SSC SPORT 1 4K
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/2403
-#EXTINF:-1 group-title="SSC SPORTS" ,AR: SSC SPORT 2 4k
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/2404
-#EXTINF:-1 group-title="SSC SPORTS" ,AR: SSC SPORT 4 4k
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/2405
-#EXTINF:-1 group-title="SSC SPORTS" ,AR: SSC SPORT 5 4k
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/2406
-#EXTINF:-1 group-title="ARAB SPORT" tvg-logo="http://pro.netmos.ovh:6051/img/Dubai.Sports.1.png" ,SP: DUBAI SPORTS 1
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/114
-#EXTINF:-1 group-title="ARAB SPORT" tvg-logo="http://pro.netmos.ovh:6051/img/Dubai.Sports.2.png" ,SP: DUBAI SPORTS 2
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/116
-#EXTINF:-1 group-title="ARAB SPORT" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/71/5d934da293.png" ,SP: DUBAI SPORTS 3
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/118
-#EXTINF:-1 group-title="ARAB SPORT" tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/sport/sp.ksa1.png" ,SP: KSA Sport 1
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/119
-#EXTINF:-1 group-title="ARAB SPORT" tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/sport/sp.ksa2.png" ,SP: KSA Sport 2
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/120
-#EXTINF:-1 group-title="ARAB SPORT" tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/sport/SP.yastv.png" ,SP: YAS SPORT HD
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/121
-#EXTINF:-1 group-title="ARAB SPORT" tvg-logo="http://pro.netmos.ovh:6051/img/Bahrain.Sports.png" ,SP: Bahrain Sports 1
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/122
-#EXTINF:-1 group-title="ARAB SPORT" tvg-logo="http://pro.netmos.ovh:6051/img/Bahrain.Sports.png" ,SP: Bahrain Sports 2
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/123
-#EXTINF:-1 group-title="ARAB SPORT" tvg-logo="http://pro.netmos.ovh:6051/img/Ontime.Sports.png" ,SP: Ontime Sports 1
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/124
-#EXTINF:-1 group-title="ARAB SPORT" tvg-logo="http://pro.netmos.ovh:6051/img/Ontime.Sports.2.png" ,AR: Ontime Sports 2
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/125
-#EXTINF:-1 group-title="ARAB SPORT" tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/sport/sp.ksa3.png" ,SP: KSA Sport 3
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/127
-#EXTINF:-1 group-title="ARAB SPORT" tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/sport/sp.ksa4.png" ,SP: KSA Sport 4
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/128
-#EXTINF:-1 group-title="ARAB SPORT" tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/sport/SP.omansport.png" ,SP: OMAN TV Sport HD
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/129
-#EXTINF:-1 group-title="ARAB SPORT" tvg-logo="https://www.lyngsat.com/logo/tv/ll/libya-sport-tv-ly.png" ,SP: LIBYA SPORT 1 HD
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/130
-#EXTINF:-1 group-title="ARAB SPORT" tvg-logo="https://www.lyngsat.com/logo/tv/ll/libya-sport-tv-ly.png" ,SP: LIBYA SPORT 2 HD
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/131
-#EXTINF:-1 group-title="ARAB SPORT" ,SP: AL FAJER TV 1
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/132
-#EXTINF:-1 group-title="ARAB SPORT" ,SP: AL FAJER TV 2
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/133
-#EXTINF:-1 group-title="ARAB SPORT" ,SP: AL FAJER TV 3
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/134
-#EXTINF:-1 group-title="ARAB SPORT" ,SP: AL FAJER TV 4
-http://77.247.108.56:25461/VOLKANbabnour70/122417711/135
+#EXTINF:-1 group-title="ARABIC SPORTS" ,Sport | Ar: Saudi 24 Sport
+http://starshare.live:8080/04494/04494/309023
+#EXTINF:-1 group-title="ARABIC SPORTS" ,Sport | Ar: Bahrain Sport 1 HD
+http://starshare.live:8080/04494/04494/309024
+#EXTINF:-1 group-title="ARABIC SPORTS" ,Sport | Ar: Bahrain Sport 2 HD
+http://starshare.live:8080/04494/04494/309025
+#EXTINF:-1 group-title="ARABIC SPORTS" ,Sport | Ar: Oman Sport HD
+http://starshare.live:8080/04494/04494/309026
+#EXTINF:-1 group-title="ARABIC SPORTS" ,Sport | Ar: Iraqia Sport HD
+http://starshare.live:8080/04494/04494/309027
+#EXTINF:-1 group-title="ARABIC SPORTS" ,Sport | Ar: Shabab Iraq Sport 1 HD
+http://starshare.live:8080/04494/04494/309028
+#EXTINF:-1 group-title="ARABIC SPORTS" ,Sport | Ar: Zamalek Sports
+http://starshare.live:8080/04494/04494/309029
+#EXTINF:-1 group-title="ARABIC SPORTS" ,Sport | Ar: Nile Sport
+http://starshare.live:8080/04494/04494/309030
+#EXTINF:-1 group-title="ARABIC SPORTS" ,Sport | Ar: Al Ahly TV
+http://starshare.live:8080/04494/04494/309031
+#EXTINF:-1 group-title="ARABIC SPORTS" ,Sport | Ar: Al Heddaf TV
+http://starshare.live:8080/04494/04494/309032
+#EXTINF:-1 group-title="ARABIC SPORTS" ,Sport | Ar: Libya Sport 1
+http://starshare.live:8080/04494/04494/309033
+#EXTINF:-1 group-title="ARABIC SPORTS" ,Sport | Ar: Libya Sport 2
+http://starshare.live:8080/04494/04494/309034
+#EXTINF:-1 group-title="ARABIC SPORTS" ,Sport | Ar: Jordan Sport HD
+http://starshare.live:8080/04494/04494/309035
+#EXTINF:-1 group-title="ARABIC SPORTS" ,Sport | Ar: Kuwait Sport HD
+http://starshare.live:8080/04494/04494/309036
+#EXTINF:-1 group-title="ARABIC SPORTS" ,Sport | Ar: Palestine Sport
+http://starshare.live:8080/04494/04494/309037
+#EXTINF:-1 group-title="ARABIC SPORTS" ,Sport | Ar: Sharjah Sport HD
+http://starshare.live:8080/04494/04494/309038
+#EXTINF:-1 group-title="ARABIC SPORTS" ,Sport | Ar: Arryadia HD
+http://starshare.live:8080/04494/04494/309039
+#EXTINF:-1 group-title="ARABIC SPORTS" ,Sport | Ar: Kuwait Sport Plus
+http://starshare.live:8080/04494/04494/309040
+#EXTINF:-1 group-title="ARABIC SPORTS" ,Sport | Ar: Yas Sport
+http://starshare.live:8080/04494/04494/309041
+#EXTINF:-1 group-title="ARABIC SPORTS" ,Sport: WWE HD
+http://starshare.live:8080/04494/04494/309042
+#EXTINF:-1 group-title="ARABIC SPORTS" ,Sport: RealMadrid TV
+http://starshare.live:8080/04494/04494/309043
