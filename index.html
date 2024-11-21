@@ -72,11 +72,16 @@
             color: #fff;
             font-size: 1.1rem;
             font-weight: bold;
-            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            transition: transform 0.3s ease, box-shadow 0.3s ease, background 0.3s ease;
         }
         .channel:hover {
             transform: translateY(-3px) scale(1.05);
             box-shadow: 0 10px 15px rgba(0, 0, 0, 0.3), 0 6px 8px rgba(255, 255, 255, 0.2) inset;
+        }
+
+        /* اللون الخاص بالقناة التي تم اختيارها */
+        .channel.selected {
+            background: linear-gradient(145deg, #f39c12, #e74c3c);
         }
 
         /* الحقوق */
@@ -177,6 +182,11 @@
                 top: 0,
                 behavior: 'smooth'
             });
+
+            // إضافة فئة "selected" للقناة التي تم اختيارها
+            const selectedChannel = document.querySelectorAll('.channel');
+            selectedChannel.forEach(channel => channel.classList.remove('selected')); // إزالة من كل القنوات
+            selectedChannel[index].classList.add('selected'); // إضافة للقناة المحددة
         }
 
         // تحميل ملف M3U
