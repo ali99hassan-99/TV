@@ -171,8 +171,12 @@
             videoSource.src = channels[index];
             player.load();
             player.play();
-            // الانتقال للمشغل
-            player.scrollIntoView({ behavior: 'smooth' });
+
+            // التمرير إلى أعلى الصفحة بعد تشغيل القناة
+            window.scrollTo({
+                top: 0,
+                behavior: 'smooth'
+            });
         }
 
         // تحميل ملف M3U
